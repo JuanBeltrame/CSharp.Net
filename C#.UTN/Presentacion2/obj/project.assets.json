@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Presentacion2\\Presentacion2.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Presentacion2\\Presentacion2.csproj",
       "projectName": "Presentacion2",
-      "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Presentacion2\\Presentacion2.csproj",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Presentacion2\\Presentacion2.csproj",
       "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Presentacion2\\obj\\",
+      "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Presentacion2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

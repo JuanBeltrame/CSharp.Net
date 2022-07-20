@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj",
         "projectName": "EjemploUniversal",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\103 - El Ejemplo Universal\\EjemploUniversal.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\103 - El Ejemplo Universal\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\103 - El Ejemplo Universal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

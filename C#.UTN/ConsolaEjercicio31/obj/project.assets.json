@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
       "projectName": "ConsolaEjercicio31",
-      "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
       "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\obj\\",
+      "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\ConsolaEjercicio31\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
-              "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj"
+            "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
+              "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj"
             }
           }
         }

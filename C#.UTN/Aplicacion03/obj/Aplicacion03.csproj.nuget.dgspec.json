@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj",
         "projectName": "Aplicacion03",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Aplicacion03\\Aplicacion03.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Aplicacion03\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Aplicacion03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\UI\\UI.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\Logica.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\UI\\UI.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\UI\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\Logica.csproj": {
-                "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\Logica\\Logica.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Logica\\Logica.csproj"
               }
             }
           }

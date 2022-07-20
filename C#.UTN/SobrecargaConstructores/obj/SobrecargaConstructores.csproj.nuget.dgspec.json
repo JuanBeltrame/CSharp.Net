@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj",
         "projectName": "SobrecargaConstructores",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\SobrecargaConstructores\\SobrecargaConstructores.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\SobrecargaConstructores\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\SobrecargaConstructores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

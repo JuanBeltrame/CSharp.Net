@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj",
         "projectName": "NecesitoUnPrestamo",
-        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\NecesitoUnPrestamo\\NecesitoUnPrestamo.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\NecesitoUnPrestamo\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\NecesitoUnPrestamo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
