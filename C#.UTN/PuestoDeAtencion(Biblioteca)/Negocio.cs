@@ -11,7 +11,7 @@ namespace PuestoDeAtencion_Biblioteca_
         private PuestoAtencion caja;
         private Queue<Cliente> clientes;
         private string nombre;
-        private 
+        
 
         private Negocio()
         {
