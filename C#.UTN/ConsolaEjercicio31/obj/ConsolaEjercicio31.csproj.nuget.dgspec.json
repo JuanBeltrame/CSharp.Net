@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+        "projectName": "ConsolaEjercicio31",
+        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\ConsolaEjercicio31\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22330.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
+        "projectName": "PuestoDeAtencion(Biblioteca)",
+        "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C#.UTN\\PuestoDeAtencion(Biblioteca)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22330.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

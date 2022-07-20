@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.exe
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.deps.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.runtimeconfig.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\bin\Debug\net5.0\Presentacion3.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\refint\Presentacion3.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\Presentacion3.genruntimeconfig.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion3\obj\Debug\net5.0\ref\Presentacion3.dll

@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.exe
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.deps.json
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.json
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.dll
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\bin\Debug\net5.0\ejemplo1.pdb
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfo.cs
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.dll
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\refint\ejemplo1.dll
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.pdb
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ejemplo1.genruntimeconfig.cache
+C:\Users\juan_\Documents\4. P. Area\Curso C# Nivel 2\primerosEjemplos\ejemplo1\obj\Debug\net5.0\ref\ejemplo1.dll

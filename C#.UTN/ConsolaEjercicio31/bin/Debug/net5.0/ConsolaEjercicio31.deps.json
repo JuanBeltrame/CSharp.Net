@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaEjercicio31/1.0.0": {
+        "dependencies": {
+          "PuestoDeAtencion(Biblioteca)": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaEjercicio31.dll": {}
+        }
+      },
+      "PuestoDeAtencion(Biblioteca)/1.0.0": {
+        "runtime": {
+          "PuestoDeAtencion(Biblioteca).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaEjercicio31/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PuestoDeAtencion(Biblioteca)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

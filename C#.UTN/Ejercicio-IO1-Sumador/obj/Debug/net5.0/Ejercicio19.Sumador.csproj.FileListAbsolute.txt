@@ -1,0 +1,5 @@
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio19.Sumador.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio19.Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio19.Sumador.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio19.Sumador.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio19.Sumador.csproj.CoreCompileInputs.cache

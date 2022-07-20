@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio-IO1-Sumador/1.0.0": {
+        "runtime": {
+          "Ejercicio-IO1-Sumador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio-IO1-Sumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

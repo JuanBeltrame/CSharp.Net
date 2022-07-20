@@ -1,0 +1,4 @@
+{
+    "omnisharp.disableMSBuildDiagnosticWarning": false,
+    "outline.problems.enabled": true
+}

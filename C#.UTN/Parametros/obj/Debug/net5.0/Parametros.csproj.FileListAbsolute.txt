@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.exe
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.deps.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.runtimeconfig.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\bin\Debug\net5.0\Parametros.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\refint\Parametros.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\Parametros.genruntimeconfig.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Parametros\obj\Debug\net5.0\ref\Parametros.dll

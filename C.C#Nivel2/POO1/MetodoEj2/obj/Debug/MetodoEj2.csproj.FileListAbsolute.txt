@@ -1,0 +1,8 @@
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\obj\Debug\MetodoEj2.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\obj\Debug\MetodoEj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\obj\Debug\MetodoEj2.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\bin\Debug\MetodoEj2.exe.config
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\bin\Debug\MetodoEj2.exe
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\bin\Debug\MetodoEj2.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\obj\Debug\MetodoEj2.exe
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel2\POO1\MetodoEj2\obj\Debug\MetodoEj2.pdb

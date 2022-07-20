@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.exe
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.deps.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.runtimeconfig.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\bin\Debug\net5.0\Presentacion1.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\refint\Presentacion1.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\Presentacion1.genruntimeconfig.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Presentacion\obj\Debug\net5.0\ref\Presentacion1.dll

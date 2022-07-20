@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.exe
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.deps.json
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.runtimeconfig.json
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.dll
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\bin\Debug\net5.0\primerPrograma.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.dll
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\refint\primerPrograma.dll
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\primerPrograma.genruntimeconfig.cache
+C:\Users\juan_\Documents\4.pArea\C#\C.C#Nivel1\Contenido\primerPrograma\obj\Debug\net5.0\ref\primerPrograma.dll

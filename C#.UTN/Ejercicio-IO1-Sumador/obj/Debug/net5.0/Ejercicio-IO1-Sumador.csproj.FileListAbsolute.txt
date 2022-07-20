@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.exe
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.deps.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.runtimeconfig.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.runtimeconfig.dev.json
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\bin\Debug\net5.0\Ejercicio-IO1-Sumador.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.AssemblyInfo.cs
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\refint\Ejercicio-IO1-Sumador.dll
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.pdb
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\Ejercicio-IO1-Sumador.genruntimeconfig.cache
+C:\Users\juan_\Documents\4.pArea\C#\C#.UTN\Ejercicio-IO1-Sumador\obj\Debug\net5.0\ref\Ejercicio-IO1-Sumador.dll
