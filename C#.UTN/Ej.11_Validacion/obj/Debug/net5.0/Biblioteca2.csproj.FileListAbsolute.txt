@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca2.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca2.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\refint\Biblioteca2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca2.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\ref\Biblioteca2.dll

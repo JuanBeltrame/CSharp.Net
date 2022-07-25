@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Biblioteca1
+namespace Conversores
 {
     public class ConversorDeTemperatura
     {

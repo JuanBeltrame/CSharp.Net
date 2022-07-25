@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaEj11/1.0.0": {
+        "dependencies": {
+          "Biblioteca2": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaEj11.dll": {}
+        }
+      },
+      "Biblioteca2/1.0.0": {
+        "runtime": {
+          "Biblioteca2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaEj11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
