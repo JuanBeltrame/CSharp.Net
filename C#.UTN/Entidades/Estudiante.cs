@@ -8,15 +8,26 @@ namespace Entidades
         public int legajo;
         public List<string> materias;
 
-        public Estudiante (int legajo, List<string> materias, long dni, string nomnbre, string apellido):this(new Persona((nombre,apellido,dni),legajo)
-        {
-            
-        }
-
-        public Estudiante (Persona persona, int legajo):base(persona.apellido, persona.nombre, persona.dni)
+        public Estudiante(Persona persona, int legajo) : base(persona.Apellido, persona.Nombre, persona.Dni)
         {
             this.legajo = legajo;
-            this.materias = materias;
+            this.materias = new List<string>();
+        }
+        public Estudiante(int legajo, long dni, string nombre, string apellido)
+        : this(new Persona(nombre, apellido, dni), legajo)
+        {
+
+        }
+
+        public string Estudiar()
+        {
+            return "Estoy estudiando...";
+        }
+
+        public string MostarAlumno()
+        {
+            return $"{base.MostrarPersona()} Legajo: {this.legajo}";
+
         }
     }
 }

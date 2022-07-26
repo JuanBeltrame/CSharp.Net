@@ -17,7 +17,7 @@ namespace Entidades
 
         public string Corregir()
         {
-            return "Estoy Corrigiendo...";
+            return "Estoy Corrigiendo..."; 
         }
     }
 }

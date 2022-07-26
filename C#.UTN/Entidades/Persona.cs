@@ -11,13 +11,47 @@ namespace Entidades
         protected string nombre;
         protected string apellido;
         protected long dni;
-        
+
+        public string Nombre
+        {
+            get
+            {
+                return nombre;
+            }
+            set
+            {
+                nombre = value;
+            }
+        }
+        public string Apellido
+        {
+            get
+            {
+                return apellido;
+            }
+            set
+            {
+                apellido = value;
+            }
+        }
+        public long Dni
+        {
+            get
+            {
+                return dni;
+            }
+            set
+            {
+                dni = value;
+            }
+        }
+
 
         public Persona(string nombre, string apellido, long dni)
         {
             this.nombre = nombre;
             this.apellido = apellido;
-            this.dni = dni; 
+            this.dni = dni;
         }
 
         public string MostrarPersona()
