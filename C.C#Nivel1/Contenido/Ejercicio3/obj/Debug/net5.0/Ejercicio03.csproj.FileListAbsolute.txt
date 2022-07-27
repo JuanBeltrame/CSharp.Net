@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.exe
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\bin\Debug\net5.0\Ejercicio03.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\refint\Ejercicio03.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\Ejercicio03.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio03.dll

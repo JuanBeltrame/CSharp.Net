@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C.C#Nivel1\\Contenido\\Ejercicio2\\Ejercicio02.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio2\\Ejercicio02.csproj",
       "projectName": "Ejercicio02",
-      "projectPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C.C#Nivel1\\Contenido\\Ejercicio2\\Ejercicio02.csproj",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio2\\Ejercicio02.csproj",
       "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan_\\Documents\\4.pArea\\C#\\C.C#Nivel1\\Contenido\\Ejercicio2\\obj\\",
+      "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22330.6\\RuntimeIdentifierGraph.json"
       }
     }
   }

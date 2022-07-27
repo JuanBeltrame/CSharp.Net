@@ -1,41 +1,35 @@
 ﻿using System;
+using System.Drawing;
 using Ej._11_Validacion;
 
 namespace ConsolaEj11
 {
     internal class Program
     {
+        private static int maximo;
+        private static int minimo;
         static void Main(string[] args)
         {
-            int valor = 0;
-            bool esNumero;
+            int valor;
             int acumNumeros = 0;
             int contNumeros = 0;
-            int valorMaximo = 100;
-            int valorminimo = -100;
+            int rangoMaximo = 100;
+            int rangominimo = -100;
             int maximo = int.MinValue;
             int minimo = int.MaxValue;
 
-            while (contNumeros <= 10)
+            while (contNumeros < 10)
             {
                 Console.WriteLine("Ingresar un numero:");
-                esNumero = int.TryParse(Console.ReadLine(), out valor);
 
-                if (esNumero)
+                if (int.TryParse(Console.ReadLine(), out valor))
                 {
-                    if (Validacion.Validar(valor, valorminimo, valorMaximo))
+                    if (Validacion.Validar(valor, rangominimo, rangoMaximo))
                     {
                         acumNumeros += valor;
-                        if (valor > maximo)
-                        {
-                            maximo = valor;
-                        }
-                        else if (valor < minimo)
-                        {
-                            minimo = valor;
-                        }
+                        EvaluarMaximo(valor);
+                        Evaluarminimo(valor);
                         contNumeros++;
-                        Console.WriteLine("Esta en el rango");
                     }
                     else
                     {
@@ -48,10 +42,25 @@ namespace ConsolaEj11
                 }
 
             }
-            Console.WriteLine(" El numero maximo es: {0}", maximo);
-            Console.WriteLine("El numero minimo es: {0}", minimo);
-            Console.WriteLine("El promedio total es: {0}",acumNumeros/contNumeros);
+            Console.WriteLine($"El numero maximo es: {maximo} y el minimo es: {minimo}");
+            Console.WriteLine($"El promedio total es: {acumNumeros / contNumeros}");
             Console.ReadKey();
+        }
+
+        public static void EvaluarMaximo(int valor)
+        {
+            if (valor > maximo)
+            {
+                maximo = valor;
+            }
+        }
+
+        public static void Evaluarminimo(int valor)
+        {
+            if (valor < minimo)
+            {
+                minimo = valor;
+            }
         }
     }
 }

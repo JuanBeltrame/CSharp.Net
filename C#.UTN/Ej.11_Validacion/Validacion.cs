@@ -6,14 +6,7 @@ namespace Ej._11_Validacion
     {
         public static bool Validar(int valor, int min, int max)
         {
-            bool retorno = false;
-            if (valor >= min && valor <= max)
-            {
-                retorno = true;
-            }
-
-            return retorno;
+            return valor >= min && valor <= max; // Expresion Logica, que devuelve un valor booleano.
         }
     }
 }
- 
