@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Drawing;
+using System.Text;
 using Ej._11_Validacion;
 
 namespace ConsolaEj11
 {
     internal class Program
     {
+        // Declaro Atributos estaticos
         private static int maximo;
         private static int minimo;
         static void Main(string[] args)
@@ -15,8 +17,9 @@ namespace ConsolaEj11
             int contNumeros = 0;
             int rangoMaximo = 100;
             int rangominimo = -100;
-            int maximo = int.MinValue;
-            int minimo = int.MaxValue;
+            // Inicializo
+            maximo = int.MinValue;
+            minimo = int.MaxValue;
 
             while (contNumeros < 10)
             {
@@ -42,8 +45,19 @@ namespace ConsolaEj11
                 }
 
             }
-            Console.WriteLine($"El numero maximo es: {maximo} y el minimo es: {minimo}");
-            Console.WriteLine($"El promedio total es: {acumNumeros / contNumeros}");
+
+            StringBuilder sb = new StringBuilder();
+            // Anexa un nuevo texto y genera salto de linea;
+            sb.AppendLine("Resultados");
+            // En AppendFormat Puedo usar formato compuesto 
+            sb.AppendFormat($"El numero maximo es {0}", maximo);
+            // Appendline acepta string interpolados
+            sb.AppendLine($"El numero maximo es: {maximo}  y el minimo es: {minimo}");
+            sb.AppendLine($"El promedio total es: {acumNumeros / contNumeros}");
+            // Append genera texto SIN salto de linea
+            sb.Append("Fin...");
+            
+            Console.WriteLine(sb.ToString());
             Console.ReadKey();
         }
 
