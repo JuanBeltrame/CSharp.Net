@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.exe
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\bin\Debug\net5.0\E.Secuencial.1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\refint\E.Secuencial.1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\E.Secuencial.1.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\Ejercicio1\obj\Debug\net5.0\ref\E.Secuencial.1.dll

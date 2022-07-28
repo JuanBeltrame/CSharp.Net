@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculadora", "Calculadora", "{55174DE1-0CB7-4713-A558-805233CAC2B8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio01", "Ejercicio1\Ejercicio01.csproj", "{F6AFE8A3-4981-42DE-9385-CD57CAFDF6D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.1", "Ejercicio1\E.Secuencial.1.csproj", "{F6AFE8A3-4981-42DE-9385-CD57CAFDF6D8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio02", "Ejercicio2\Ejercicio02.csproj", "{0D8D206B-9FCA-4775-8805-D68FA750E5EC}"
 EndProject
@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Func
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Condicionales", "3. Condicionales", "{ACABA833-653B-4DD9-AA40-724ACBE8A7E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaParaCondicionales", "ConsolaParaCondicionales\ConsolaParaCondicionales.csproj", "{B898670D-8341-40EE-81C0-D902BA5B3B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCondicionales", "ConsolaParaCondicionales\ConsolaParaCondicionales.csproj", "{B898670D-8341-40EE-81C0-D902BA5B3B81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio1\\Ejercicio01.csproj",
-      "projectName": "Ejercicio01",
-      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio1\\Ejercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio1\\E.Secuencial.1.csproj",
+      "projectName": "E.Secuencial.1",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio1\\E.Secuencial.1.csproj",
       "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C.C#Nivel1\\Contenido\\Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
