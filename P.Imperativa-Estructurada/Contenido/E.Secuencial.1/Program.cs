@@ -2,9 +2,12 @@
 
 namespace Ejercicio1
 {
+    #region Enunciado
     /* 
     1. Sumar 2 numeros enteros y mostrar su resultado por consola.
     */
+    #endregion
+
     class Program
     {
         private static int CalcularSuma()

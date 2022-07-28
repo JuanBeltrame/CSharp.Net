@@ -2,10 +2,13 @@
 
 namespace Ejercicio2
 {
+    #region Enunciado
     /* 
     2. Hacer un programa para solicitar por teclado un número 
     y luego devolver su valor elevado al cubo.
     */
+    #endregion
+
     class Program
     {
         private static int CalcularUnCubo()
