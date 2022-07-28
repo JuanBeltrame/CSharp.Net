@@ -17,6 +17,7 @@ namespace ConsolaEj11
             int contNumeros = 0;
             int rangoMaximo = 100;
             int rangominimo = -100;
+
             // Inicializo
             maximo = int.MinValue;
             minimo = int.MaxValue;
@@ -46,7 +47,9 @@ namespace ConsolaEj11
 
             }
 
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb; 
+            sb = new StringBuilder();
+
             // Anexa un nuevo texto y genera salto de linea;
             sb.AppendLine("Resultados");
             // En AppendFormat Puedo usar formato compuesto 
@@ -56,6 +59,9 @@ namespace ConsolaEj11
             sb.AppendLine($"El promedio total es: {acumNumeros / contNumeros}");
             // Append genera texto SIN salto de linea
             sb.Append("Fin...");
+
+            DateTime datetime = new DateTime(2021,08,23);
+            
             
             Console.WriteLine(sb.ToString());
             Console.ReadKey();
@@ -76,5 +82,7 @@ namespace ConsolaEj11
                 minimo = valor;
             }
         }
+
+        public class object
     }
 }

@@ -2,9 +2,12 @@
 
 namespace Ejercicio1
 {
+    /* 
+    1. Sumar 2 numeros enteros y mostrar su resultado por consola.
+    */
     class Program
     {
-        static void Main(string[] args)
+        private static int CalcularSuma()
         {
             int num1;
             int num2;
@@ -17,8 +20,20 @@ namespace Ejercicio1
             num2 = int.Parse(Console.ReadLine());
 
             resultado = num1 + num2;
-            Console.WriteLine("El resultado de esta suma es: " + resultado);
+            return resultado;
+        }
+        private static void MostrarResultado()
+        {
+            Console.WriteLine("El resultado de esta suma es: " + CalcularSuma());
+        }
+        private static void DondeLaMagiaSucede()
+        {
+            MostrarResultado();
+        }
 
+        static void Main(string[] args)
+        {
+            DondeLaMagiaSucede();
         }
     }
 }

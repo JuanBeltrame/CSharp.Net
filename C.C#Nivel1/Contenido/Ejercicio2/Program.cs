@@ -2,25 +2,35 @@
 
 namespace Ejercicio2
 {
+    /* 
+    2. Hacer un programa para solicitar por teclado un número 
+    y luego devolver su valor elevado al cubo.
+    */
     class Program
     {
-        static void Main(string[] args)
+        private static int CalcularUnCubo()
         {
-            /* 
-
-            2. Hacer un programa para solicitar por teclado un número 
-            y luego devolver su valor elevado al cubo.
-
-            */
-
             int n, cubo;
 
             Console.WriteLine("Ingresar un Numero: ");
             n = int.Parse(Console.ReadLine());
-            Console.WriteLine("El numero ingresado es: " + n);
+            Console.WriteLine($"El numero ingresado es: {n}");
 
             cubo = n * n * n;
-            Console.WriteLine("El resultado de elevar " + n + " al cubo es: " + cubo);
+            return cubo;
+        }
+        private static void MostrarResultado()
+        {
+            Console.WriteLine($"El resultado de elevar el numero seleccionado al cubo es: {CalcularUnCubo()}");
+        }
+        private static void DondeLaMagiaSucede()
+        {
+            MostrarResultado();
+        }
+
+        static void Main(string[] args)
+        {
+            DondeLaMagiaSucede();
         }
     }
 }
