@@ -21,15 +21,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Condicionales", "3. Cond
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCondicionales", "ConsolaParaCondicionales\ConsolaParaCondicionales.csproj", "{B898670D-8341-40EE-81C0-D902BA5B3B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.Secuencial.1", "E.Secuencial.1\E.Secuencial.1.csproj", "{296D3361-F296-4037-B410-47F4B8E1D20F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.1", "E.Secuencial.1\E.Secuencial.1.csproj", "{296D3361-F296-4037-B410-47F4B8E1D20F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.Secuencial.2", "E.Secuencial.2\E.Secuencial.2.csproj", "{8566319B-4CC4-4076-B959-3E577B6B3B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.2", "E.Secuencial.2\E.Secuencial.2.csproj", "{8566319B-4CC4-4076-B959-3E577B6B3B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.Secuencial.3", "E.Secuencial.3\E.Secuencial.3.csproj", "{3F542C30-C35C-4A38-B96C-5277B54DFDBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.3", "E.Secuencial.3\E.Secuencial.3.csproj", "{3F542C30-C35C-4A38-B96C-5277B54DFDBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.Secuencial.4", "E.Secuencial.4\E.Secuencial.4.csproj", "{0920B5C6-5AB4-45B4-8609-6D962199AFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.4", "E.Secuencial.4\E.Secuencial.4.csproj", "{0920B5C6-5AB4-45B4-8609-6D962199AFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.Secuencial.5", "E.Secuencial.5\E.Secuencial.5.csproj", "{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.Secuencial.5", "E.Secuencial.5\E.Secuencial.5.csproj", "{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDeCondicionales", "LibreriaDeCondicionales\LibreriaDeCondicionales.csproj", "{91DFE478-5850-4C4C-A22A-3DC14B7DE837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DFE478-5850-4C4C-A22A-3DC14B7DE837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DFE478-5850-4C4C-A22A-3DC14B7DE837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DFE478-5850-4C4C-A22A-3DC14B7DE837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DFE478-5850-4C4C-A22A-3DC14B7DE837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{3F542C30-C35C-4A38-B96C-5277B54DFDBB} = {5969498A-C805-4EDA-868E-F0CF77C9D97B}
 		{0920B5C6-5AB4-45B4-8609-6D962199AFBC} = {5969498A-C805-4EDA-868E-F0CF77C9D97B}
 		{A17F1CC5-FCA5-4FE1-B43D-685B6C91C49C} = {5969498A-C805-4EDA-868E-F0CF77C9D97B}
+		{91DFE478-5850-4C4C-A22A-3DC14B7DE837} = {ACABA833-653B-4DD9-AA40-724ACBE8A7E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1AF27B93-2EBE-43DA-8A40-6A8DDFC02F82}

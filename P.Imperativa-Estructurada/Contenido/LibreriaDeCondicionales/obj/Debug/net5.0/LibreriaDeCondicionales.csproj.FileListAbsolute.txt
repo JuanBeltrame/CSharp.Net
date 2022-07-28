@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\refint\LibreriaDeCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\LibreriaDeCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\LibreriaDeCondicionales\obj\Debug\net5.0\ref\LibreriaDeCondicionales.dll

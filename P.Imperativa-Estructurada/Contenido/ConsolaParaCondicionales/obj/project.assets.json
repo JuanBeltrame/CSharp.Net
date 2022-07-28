@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "LibreriaDeCondicionales/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LibreriaDeCondicionales.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibreriaDeCondicionales.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibreriaDeCondicionales/1.0.0": {
+      "type": "project",
+      "path": "../LibreriaDeCondicionales/LibreriaDeCondicionales.csproj",
+      "msbuildProject": "../LibreriaDeCondicionales/LibreriaDeCondicionales.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "LibreriaDeCondicionales >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\juan_\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P.Imperativa-Estructurada\\Contenido\\LibreriaDeCondicionales\\LibreriaDeCondicionales.csproj": {
+              "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P.Imperativa-Estructurada\\Contenido\\LibreriaDeCondicionales\\LibreriaDeCondicionales.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

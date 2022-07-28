@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaParaCondicionales/1.0.0": {
+        "dependencies": {
+          "LibreriaDeCondicionales": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaParaCondicionales.dll": {}
+        }
+      },
+      "LibreriaDeCondicionales/1.0.0": {
+        "runtime": {
+          "LibreriaDeCondicionales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaParaCondicionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeCondicionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

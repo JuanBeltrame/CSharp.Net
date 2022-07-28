@@ -1,4 +1,5 @@
 ﻿using System;
+using LibreriaDeCondicionales;
 
 namespace ConsolaParaCondicionales
 {
@@ -6,9 +7,12 @@ namespace ConsolaParaCondicionales
     {
         static void Main(string[] args)
         {
-            int a, b, c;
-            Console.WriteLine("Ingrese un Numero:");
-            a = int.
+            // EjemplosConIF.EjemploDeIf1();
+
+            EjemplosConIF.EjemploContador();
+
+            // ClaseEjercicio1.DondeLaMagiaSucede();
+            
         }
     }
 }
