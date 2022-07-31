@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Biblioteca2/1.0.0": {
+      "Biblioteca1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Biblioteca2.dll": {}
+          "bin/placeholder/Biblioteca1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Biblioteca2.dll": {}
+          "bin/placeholder/Biblioteca1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Biblioteca2/1.0.0": {
+    "Biblioteca1/1.0.0": {
       "type": "project",
-      "path": "../Ej.11_Validacion/Biblioteca2.csproj",
-      "msbuildProject": "../Ej.11_Validacion/Biblioteca2.csproj"
+      "path": "../Ej.11_Validacion/Biblioteca1.csproj",
+      "msbuildProject": "../Ej.11_Validacion/Biblioteca1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Biblioteca2 >= 1.0.0"
+      "Biblioteca1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca2.csproj": {
-              "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca2.csproj"
+            "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca1.csproj": {
+              "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca1.csproj"
             }
           }
         }

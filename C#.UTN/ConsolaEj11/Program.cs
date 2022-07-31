@@ -70,19 +70,12 @@ namespace ConsolaEj11
         public static void EvaluarMaximo(int valor)
         {
             if (valor > maximo)
-            {
                 maximo = valor;
-            }
         }
-
         public static void Evaluarminimo(int valor)
         {
             if (valor < minimo)
-            {
                 minimo = valor;
-            }
         }
-
-        public class object
     }
 }

@@ -9,10 +9,11 @@ namespace ConsolaParaCondicionales
         {
             // EjemplosConIF.EjemploDeIf1();
 
-            EjemplosConIF.EjemploContador();
+            // EjemplosConIF.EjemploContador2();
 
             // ClaseEjercicio1.DondeLaMagiaSucede();
-            
+
+            // ClaseEjercicio2.DondeLaMagiaSucede();          
         }
     }
 }

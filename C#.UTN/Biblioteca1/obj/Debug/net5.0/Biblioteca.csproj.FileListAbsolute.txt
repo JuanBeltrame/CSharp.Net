@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Biblioteca1\obj\Debug\net5.0\ref\Biblioteca.dll

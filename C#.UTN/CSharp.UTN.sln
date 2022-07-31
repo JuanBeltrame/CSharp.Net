@@ -59,17 +59,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaEjercicio31", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vista1", "Vista1\Vista1.csproj", "{E9E0877C-8403-4FCC-8126-2B234DCEDEBD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca1", "Biblioteca1\Biblioteca1.csproj", "{828C146A-8C69-45AE-B8C5-504512E93547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca1\Biblioteca.csproj", "{828C146A-8C69-45AE-B8C5-504512E93547}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Herencia", "8. Herencia", "{6EF52EE0-DE7A-43C3-8ADE-05442548AD10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca2", "Ej.11_Validacion\Biblioteca2.csproj", "{5CEBBD7D-10D6-4CFA-B5B0-82FA65AA8490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca1", "Ej.11_Validacion\Biblioteca1.csproj", "{5CEBBD7D-10D6-4CFA-B5B0-82FA65AA8490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaEj11", "ConsolaEj11\ConsolaEj11.csproj", "{0473DF78-BD36-49A8-B063-877F36EAA79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaEj11", "ConsolaEj11\ConsolaEj11.csproj", "{0473DF78-BD36-49A8-B063-877F36EAA79E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{ACA5DC5E-F6CB-4DEE-AEDA-836741B83D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{ACA5DC5E-F6CB-4DEE-AEDA-836741B83D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaHerencia", "ConsolaHerencia\ConsolaHerencia.csproj", "{162CC2A6-FFB7-4560-B72A-18B495125870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaHerencia", "ConsolaHerencia\ConsolaHerencia.csproj", "{162CC2A6-FFB7-4560-B72A-18B495125870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. Polimorfismo Basado en Herencia", "9. Polimorfismo Basado en Herencia", "{30026AF1-2A61-47B4-89F2-A6203D57787E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +185,10 @@ Global
 		{162CC2A6-FFB7-4560-B72A-18B495125870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{162CC2A6-FFB7-4560-B72A-18B495125870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{162CC2A6-FFB7-4560-B72A-18B495125870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,6 +220,7 @@ Global
 		{0473DF78-BD36-49A8-B063-877F36EAA79E} = {662559E4-B3D5-4788-91BE-1D522C46A415}
 		{ACA5DC5E-F6CB-4DEE-AEDA-836741B83D41} = {6EF52EE0-DE7A-43C3-8ADE-05442548AD10}
 		{162CC2A6-FFB7-4560-B72A-18B495125870} = {6EF52EE0-DE7A-43C3-8ADE-05442548AD10}
+		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C} = {30026AF1-2A61-47B4-89F2-A6203D57787E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6F57250-5CFC-44EB-B114-9F0685BCC033}

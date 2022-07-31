@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca2.csproj",
-      "projectName": "Biblioteca2",
-      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca2.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca1.csproj",
+      "projectName": "Biblioteca1",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\Biblioteca1.csproj",
       "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\C#.UTN\\Ej.11_Validacion\\obj\\",
       "projectStyle": "PackageReference",
