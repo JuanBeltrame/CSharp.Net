@@ -44,7 +44,6 @@ namespace LibreriaDeCondicionales
             contador = contador + 1;
 
             Console.WriteLine("El conteo es: " + contador);
-
         } 
         public static void EjemploContador2()
         {
@@ -63,9 +62,7 @@ namespace LibreriaDeCondicionales
             if (edad3 > 18)
                 contador++;
             
-            
             Console.WriteLine("El conteo es: "+ contador);
-            
         }
         public static void EjemploAcumulador()
         {

@@ -10,7 +10,7 @@ namespace LibreriaDeCondicionales
     #endregion
     public class Ejercicio1
     {
-        public static int EncontrarMayor()
+        private static int EncontrarMayor()
         {
             int num1, num2;
 
@@ -25,7 +25,7 @@ namespace LibreriaDeCondicionales
             else
                 return num2;
         }
-        public static void MuestraElMayor()
+        private static void MuestraElMayor()
         {
             Console.WriteLine($"El mayor de los 2 es: {EncontrarMayor()}");
         }

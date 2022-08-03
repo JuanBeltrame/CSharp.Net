@@ -28,7 +28,7 @@ namespace Ejercicio19_Sumador
 
             Console.WriteLine($"Suma de Sumadores: {sumador + sumador2}");
 
-            Console.WriteLine($"Tienen la misma cantidad de sumas?: {sumador | sumador2}");
+            Console.WriteLine($"Tienen la misma cantidad de sumas?: {sumador - sumador2}");
         }
     }
 }

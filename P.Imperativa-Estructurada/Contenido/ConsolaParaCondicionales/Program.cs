@@ -17,9 +17,18 @@ namespace ConsolaParaCondicionales
 
             // EjemplosConIF.EjemploAcumuladoryContador();
 
+
+
             // Ejercicio1.DondeLaMagiaSucede();
 
-            // Ejercicio2.DondeLaMagiaSucede();          
+            // Ejercicio2.DondeLaMagiaSucede();
+
+            // Ejercicio3.DondeLaMagiaSucede();
+
+            // Ejercicio4.DondeLaMagiaSucede();
+
+            // Ejercicio5.DondeLaMagiaSucede();
+
         }
     }
 }
