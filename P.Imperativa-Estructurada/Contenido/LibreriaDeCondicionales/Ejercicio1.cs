@@ -8,7 +8,7 @@ namespace LibreriaDeCondicionales
     encontrar e informar cual es el mayor numero de los 2.
     */
     #endregion
-    public class ClaseEjercicio1
+    public class Ejercicio1
     {
         public static int EncontrarMayor()
         {

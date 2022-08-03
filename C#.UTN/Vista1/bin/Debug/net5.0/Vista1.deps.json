@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "Vista1/1.0.0": {
         "dependencies": {
-          "Biblioteca1": "1.0.0"
+          "Biblioteca0": "1.0.0"
         },
         "runtime": {
           "Vista1.dll": {}
         }
       },
-      "Biblioteca1/1.0.0": {
+      "Biblioteca0/1.0.0": {
         "runtime": {
-          "Biblioteca1.dll": {}
+          "Biblioteca0.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Biblioteca1/1.0.0": {
+    "Biblioteca0/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

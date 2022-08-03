@@ -11,6 +11,7 @@ namespace Entidades
         protected string nombre;
         protected string apellido;
         protected long dni;
+        private long edad;
 
         public string Nombre
         {

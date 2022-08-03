@@ -11,7 +11,7 @@ namespace LibreriaDeCondicionales
     Dados dos numeros distintos, mostrarlos ordenaods en forma creciente.  
     */
     #endregion
-    public class ClaseEjercicio2
+    public class Ejercicio2
     {
         private static void MostrarOrdenado()
         {
@@ -28,7 +28,6 @@ namespace LibreriaDeCondicionales
             else
                 Console.WriteLine($"Mostrados de manera creciente: {num2}, {num1}");
         }
-
         public static void DondeLaMagiaSucede()
         {
             MostrarOrdenado();

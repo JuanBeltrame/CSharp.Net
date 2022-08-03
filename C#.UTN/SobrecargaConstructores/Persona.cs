@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SobrecargaConstructores
 {
-    internal class Persona
+    public class Persona
     {
         private string nombre;
         private DateTime fechaNacimiento;
@@ -45,16 +45,22 @@ namespace SobrecargaConstructores
         public static bool operator ==(Persona p1, Persona p2)
         {
             if (p1 is not null && p2 is not null)
-            {
                 return p1.nombre == p2.nombre;
-            }
             return false;
-
         }
-
         public static bool operator !=(Persona p1, Persona p2)
         {
-            return false;
+            return !(p1 == p2);
+        }
+
+        public static implicit operator long(Persona p1)
+        {
+            return p1.dni;
+        } 
+
+        public static explicit operator string(Persona p1)
+        {
+            return p1.nombre;
         }
     }
 }

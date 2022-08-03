@@ -7,9 +7,14 @@ namespace Presentacion3
         static void Main(string[] args)
         {
             int resultado = Sobrecargadora.Sumar(5, 8);
-            int resultado2 = Sobrecargadora.Sumar(5, 8, 10);
+
             Console.WriteLine(resultado);
+
+
+            int resultado2 = Sobrecargadora.Sumar(5, 8, 10);
+
             Console.WriteLine(resultado2);
+
 
             Console.WriteLine(Sobrecargadora.Concatenar("HOLA","MUNDO"));
             Console.WriteLine(Sobrecargadora.Concatenar("HOLA","MUNDO",12));

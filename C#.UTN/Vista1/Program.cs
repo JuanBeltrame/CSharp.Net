@@ -1,6 +1,7 @@
 ﻿using System;
 using Conversores;
 
+
 namespace Vista1
 {
     internal class Program
@@ -8,7 +9,7 @@ namespace Vista1
         private static float temperaturaCelsius;
         private static float temperaturaKelvin;
 
-        static void Main(string[] args)
+        static void Main()
         {
             //float temperaturaCelsius = 30;
             //float temperaturaKelvin = ConversorDeTemperatura.ConvertirCelciusAKelvin(temperaturaCelsius);

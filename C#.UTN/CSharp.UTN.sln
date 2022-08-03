@@ -5,11 +5,11 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentacion1", "Presentacion\Presentacion1.csproj", "{9CFC6BB3-4627-428C-996A-C544F51C876B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Introduccion a .Net y CSharp", "1. Introduccion a .Net y CSharp", "{779F3CC8-224F-4C01-9195-CD4D09960C5B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Introduccion a .Net y CSharp", "01. Introduccion a .Net y CSharp", "{779F3CC8-224F-4C01-9195-CD4D09960C5B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 Programacion Orientada a Objetos", "3.1 Programacion Orientada a Objetos", "{21C49A52-50B6-45F4-B566-FDEBC62CF220}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.1 P. Orientada a Objetos", "03.1 P. Orientada a Objetos", "{21C49A52-50B6-45F4-B566-FDEBC62CF220}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Clases y Metodos Estaticos", "2. Clases y Metodos Estaticos", "{662559E4-B3D5-4788-91BE-1D522C46A415}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Clases y Metodos Estaticos", "02. Clases y Metodos Estaticos", "{662559E4-B3D5-4788-91BE-1D522C46A415}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacion01", "Aplicacion01\Aplicacion01.csproj", "{6CDB234E-B079-49C3-B798-78AE2A2D6598}"
 EndProject
@@ -23,13 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentacion2", "Presentaci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaMetodos", "Presentacion3\SobrecargaMetodos.csproj", "{4C84D20F-5A09-411A-A89C-84DCABA17727}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Sobrecarga", "4. Sobrecarga", "{B971737A-569D-46A9-ABC1-1D8D956705FE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Sobrecarga", "04. Sobrecarga", "{B971737A-569D-46A9-ABC1-1D8D956705FE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploUniversal", "103 - El Ejemplo Universal\EjemploUniversal.csproj", "{408A44AE-6E4F-4BF0-88F8-E05A7E665575}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NecesitoUnPrestamo", "NecesitoUnPrestamo\NecesitoUnPrestamo.csproj", "{39EF996E-A693-4F85-86D8-ABDCD81FB8C5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 Programacion Orientada a Objetos", "3.2 Programacion Orientada a Objetos", "{63ECDF7C-1814-44CE-ADEB-A29163F89F17}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.2 P. Orientada a Objetos", "03.2 P. Orientada a Objetos", "{63ECDF7C-1814-44CE-ADEB-A29163F89F17}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacion4", "Aplicacion4\Aplicacion4.csproj", "{1A83A860-0BAD-4849-AFF7-EBB07E01A500}"
 EndProject
@@ -37,7 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{4B77
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{E140124F-E9EB-40EC-ACB2-AE540A3C2884}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Colecciones", "6. Colecciones", "{5773A6E1-551F-4075-AAFB-B89492E9F9AA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Colecciones", "06. Colecciones", "{5773A6E1-551F-4075-AAFB-B89492E9F9AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones", "Colecciones\Colecciones.csproj", "{245F7A0A-3EFF-4288-8381-A952C8D1E096}"
 EndProject
@@ -49,7 +49,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaConstructores", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio19_Sumador", "Ejercicio-IO1-Sumador\Ejercicio19_Sumador.csproj", "{FDC00DCA-7C1D-4672-96E2-5D60D8B346BB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Encapsulamiento", "7. Encapsulamiento", "{10A0FE3B-4A6A-4C72-9671-9B71E7688552}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Encapsulamiento", "07. Encapsulamiento", "{10A0FE3B-4A6A-4C72-9671-9B71E7688552}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo_Encapsulamiento", "Ejemplo_Encapsulamiento\Ejemplo_Encapsulamiento.csproj", "{12801DB6-64A7-4BF1-8A51-456542030F7C}"
 EndProject
@@ -59,9 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaEjercicio31", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vista1", "Vista1\Vista1.csproj", "{E9E0877C-8403-4FCC-8126-2B234DCEDEBD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca1\Biblioteca.csproj", "{828C146A-8C69-45AE-B8C5-504512E93547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca0", "Biblioteca1\Biblioteca0.csproj", "{828C146A-8C69-45AE-B8C5-504512E93547}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Herencia", "8. Herencia", "{6EF52EE0-DE7A-43C3-8ADE-05442548AD10}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Herencia", "08. Herencia", "{6EF52EE0-DE7A-43C3-8ADE-05442548AD10}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca1", "Ej.11_Validacion\Biblioteca1.csproj", "{5CEBBD7D-10D6-4CFA-B5B0-82FA65AA8490}"
 EndProject
@@ -71,9 +71,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaHerencia", "ConsolaHerencia\ConsolaHerencia.csproj", "{162CC2A6-FFB7-4560-B72A-18B495125870}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. Polimorfismo Basado en Herencia", "9. Polimorfismo Basado en Herencia", "{30026AF1-2A61-47B4-89F2-A6203D57787E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Polimorfismo Basado en Herencia", "09. Polimorfismo Basado en Herencia", "{30026AF1-2A61-47B4-89F2-A6203D57787E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20. Eventos", "20. Eventos", "{A7DD2553-64F3-4EB6-ACB6-169CF07A9D38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18. Delegados", "18. Delegados", "{6F98467A-8C85-45CC-B7FB-F0BD05DFA874}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegados", "Delegados\Delegados.csproj", "{388B06CF-7C40-4D59-905A-8E11CF245892}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +195,10 @@ Global
 		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388B06CF-7C40-4D59-905A-8E11CF245892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388B06CF-7C40-4D59-905A-8E11CF245892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388B06CF-7C40-4D59-905A-8E11CF245892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388B06CF-7C40-4D59-905A-8E11CF245892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +231,7 @@ Global
 		{ACA5DC5E-F6CB-4DEE-AEDA-836741B83D41} = {6EF52EE0-DE7A-43C3-8ADE-05442548AD10}
 		{162CC2A6-FFB7-4560-B72A-18B495125870} = {6EF52EE0-DE7A-43C3-8ADE-05442548AD10}
 		{262E1F42-17CB-4041-918D-0E2F2A6E1B3C} = {30026AF1-2A61-47B4-89F2-A6203D57787E}
+		{388B06CF-7C40-4D59-905A-8E11CF245892} = {6F98467A-8C85-45CC-B7FB-F0BD05DFA874}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6F57250-5CFC-44EB-B114-9F0685BCC033}
