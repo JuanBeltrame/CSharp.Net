@@ -32,6 +32,8 @@ namespace ConsolaParaCondicionales
             // Ejercicio6.DondeLaMagiaSucede();
 
             // Ejercicio7.DondeLaMagiaSucede();
+
+            // Ejercicio8.DondeLaMagiaSucede();
         }
     }
 }
