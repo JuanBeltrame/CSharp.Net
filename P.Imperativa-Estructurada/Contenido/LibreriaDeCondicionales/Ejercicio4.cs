@@ -8,7 +8,7 @@ namespace LibreriaDeCondicionales
 {
     #region Enunciado
     /*
-     Dado un numero, determinar si es positivo o negativo. 
+     Dado un numero entero, determinar si es positivo o negativo. 
      */
     #endregion
     public class Ejercicio4

@@ -4,13 +4,13 @@ namespace LibreriaDeCondicionales
 {
     #region Enunciado
     /*
-    Dados 2 valores enteros numericos distintos, 
+    Dados 2 numeros enteros distintos, 
     encontrar e informar cual es el mayor numero de los 2.
     */
     #endregion
     public class Ejercicio1
     {
-        private static int EncontrarMayor()
+        private static void EncontrarMayor()
         {
             int num1, num2;
 
@@ -20,14 +20,16 @@ namespace LibreriaDeCondicionales
             Console.WriteLine("Ingresar otro numero: ");
             num2 = int.Parse(Console.ReadLine());
 
-            if (num1 > num2)
-                return num1;
+            if (num1 == num2)
+                Console.WriteLine($"Los numeros {num1} y {num2} ingresados no deben de ser iguales.");
+            else if (num1 > num2)
+                Console.WriteLine("El mayor es numero de los 2 ingresados es:"+num1);
             else
-                return num2;
+                Console.WriteLine("El mayor numero de los 2 ingresados es {0}",num2);
         }
         private static void MuestraElMayor()
         {
-            Console.WriteLine($"El mayor de los 2 es: {EncontrarMayor()}");
+            EncontrarMayor();
         }
         public static void DondeLaMagiaSucede()
         {

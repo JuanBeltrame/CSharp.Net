@@ -8,7 +8,7 @@ namespace LibreriaDeCondicionales
 {
     #region Enunciado
     /*
-     Hacer un programa para ingresar un numero y que luego se emita por pantalla un cartel aclaratorio si: 
+     Hacer un programa para ingresar un numero entero y que luego se emita por pantalla un cartel aclaratorio si: 
     "Es mayor a 10" o "No es mayor a 10"
      */
     #endregion
@@ -25,8 +25,10 @@ namespace LibreriaDeCondicionales
                 Console.WriteLine($"El numero ingresado {num}, es claramente mayor a 10");
             else if (num < 10)
                 Console.WriteLine($" El numero ingresado {num}, es claramente, menor a 10");
-            else
+            else if (num == 10)
                 Console.WriteLine($"El numero ingresado ha sido {num}");
+            else
+                Console.WriteLine();
         }
         public static void DondeLaMagiaSucede()
         {

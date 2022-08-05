@@ -16,7 +16,7 @@ namespace LibreriaDeCondicionales
     #endregion
     public class Ejercicio5
     {
-        private static void CargaYCalculo()
+        private static int CargaYCalculo()
         {
             int numero;
 
@@ -25,15 +25,27 @@ namespace LibreriaDeCondicionales
             numero = int.Parse(Console.ReadLine());
 
             if (numero > 0)
+            {
                 Console.WriteLine($"El numero {numero} es Positivo");
-            else if (numero <0 )
+                return numero;
+            }
+
+            else if (numero < 0)
+            {
                 Console.WriteLine($"El numero {numero} es Negativo");
-            else
+                return numero;
+            }
+            else if (numero == 0)
+            {
                 Console.WriteLine($"El numero ingresado fue {numero}");
+                return numero;
+            }
+            else
+                return -1;
         }
         private static void MostrarResultado()
         {
-            CargaYCalculo();
+            Console.WriteLine(CargaYCalculo()); 
         }
         public static void DondeLaMagiaSucede()
         {

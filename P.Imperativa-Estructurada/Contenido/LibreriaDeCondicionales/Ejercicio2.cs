@@ -8,7 +8,7 @@ namespace LibreriaDeCondicionales
 {
     #region Enunciado
     /*
-    Dados dos numeros distintos, mostrarlos ordenaods en forma creciente.  
+    Dados dos numeros enteros distintos, mostrarlos ordenaods en forma creciente.  
     */
     #endregion
     public class Ejercicio2
@@ -22,8 +22,9 @@ namespace LibreriaDeCondicionales
 
             Console.WriteLine("Ingrese otro numero distinto del anterior: ");
             num2 = int.Parse(Console.ReadLine());
-
-            if (num1 < num2)
+            if (num1 == num2)
+                Console.WriteLine("Los numeros ingresados no deber de ser iguales");
+            else if (num1 < num2)
                 Console.WriteLine($"Mostrados de manera creciente: {num1}, {num2}");
             else
                 Console.WriteLine($"Mostrados de manera creciente: {num2}, {num1}");
