@@ -1,0 +1,43 @@
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\C.C#Nivel1\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\refint\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ref\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\ConsolaParaCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\bin\Debug\net5.0\LibreriaDeCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\refint\ConsolaParaCondicionales.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ConsolaParaCondicionales.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\ConsolaParaCondicionales\obj\Debug\net5.0\ref\ConsolaParaCondicionales.dll
