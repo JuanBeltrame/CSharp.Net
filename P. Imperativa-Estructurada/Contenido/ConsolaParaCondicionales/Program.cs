@@ -21,6 +21,8 @@ namespace ConsolaParaCondicionales
             // Ejercicio1_2.DondeLaMagiaSucede();
             // Ejercicio1_3.DondeLaMagiaSucede();
 
+            // Ejercicio2_1.DondeLaMagiaSucede();
+
             // Ejercicio4_1.DondeLaMagiaSucede();
             // Ejercicio4_2.DondeLaMagiaSucede();
             // Ejercicio4_3.DondeLaMagiaSucede();

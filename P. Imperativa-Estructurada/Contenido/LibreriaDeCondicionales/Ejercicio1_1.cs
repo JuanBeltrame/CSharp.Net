@@ -32,7 +32,6 @@ namespace LibreriaDeCondicionales
                 Console.WriteLine("El numero que se ingreso es Negativo");
             }
         }
-
         private static void Mostrar()
         {
             CargaYCalculo();
