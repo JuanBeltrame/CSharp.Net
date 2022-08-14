@@ -1,0 +1,13 @@
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\bin\Debug\netcoreapp2.1\01_04.deps.json
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\bin\Debug\netcoreapp2.1\01_04.runtimeconfig.json
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\bin\Debug\netcoreapp2.1\01_04.runtimeconfig.dev.json
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\bin\Debug\netcoreapp2.1\01_04.dll
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\bin\Debug\netcoreapp2.1\01_04.pdb
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.AssemblyInfoInputs.cache
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.AssemblyInfo.cs
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.dll
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.pdb
+C:\Users\juan_\Desktop\Exercise Files\Ch1\01_04\start\obj\Debug\netcoreapp2.1\01_04.genruntimeconfig.cache
