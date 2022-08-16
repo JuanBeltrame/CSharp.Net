@@ -1,0 +1,13 @@
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\bin\Debug\netcoreapp2.1\04_02.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\bin\Debug\netcoreapp2.1\04_02.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\bin\Debug\netcoreapp2.1\04_02.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\bin\Debug\netcoreapp2.1\04_02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\bin\Debug\netcoreapp2.1\04_02.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Debuggin In C#\Ch4\04_02\end\obj\Debug\netcoreapp2.1\04_02.genruntimeconfig.cache
