@@ -23,7 +23,6 @@ namespace LibreriaDeCondicionales
             int contador = 0;
             int acumulador = 0;
             float promedio;
-            int posicion;
             int mayor = 0;
 
             Console.WriteLine("Ingrese 2 numeros: ");
