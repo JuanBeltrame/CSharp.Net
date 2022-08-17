@@ -13,35 +13,39 @@ namespace ConsolaParaCondicionales
             // EjemplosConIF.EjemploAcumulador();
             // EjemlosConIF.EjemploAcumuladoryContador();
 
-            // Ejercicio1_1.DondeLaMagiaSucede();
-            // Ejercicio1_2.DondeLaMagiaSucede();
-            // Ejercicio1_3.DondeLaMagiaSucede();
+            // Ejercicio01_1.DondeLaMagiaSucede();
+            // Ejercicio01_2.DondeLaMagiaSucede();
+            // Ejercicio01_3.DondeLaMagiaSucede();
 
-            // Ejercicio2_1.DondeLaMagiaSucede();
-            // Ejercicio2_2.DondeLaMagiaSucede();
-            // Ejercicio2_3.DondeLaMagiaSucede();
+            // Ejercicio02_1.DondeLaMagiaSucede();
+            // Ejercicio02_2.DondeLaMagiaSucede();
+            // Ejercicio02_3.DondeLaMagiaSucede();
 
-            // Ejercicio3_1.DondeLaMagiaSucede();
-            // Ejercicio3_2.DondeLaMagiaSucede();
-            // Ejercicio3_3.DondeLaMagiaSucede();
+            // Ejercicio03_1.DondeLaMagiaSucede();
+            // Ejercicio03_2.DondeLaMagiaSucede();
+            // Ejercicio03_3.DondeLaMagiaSucede();
 
-            // Ejercicio4_1.DondeLaMagiaSucede();
-            // Ejercicio4_2.DondeLaMagiaSucede();
-            // Ejercicio4_3.DondeLaMagiaSucede();
+            // Ejercicio04_1.DondeLaMagiaSucede();
+            // Ejercicio04_2.DondeLaMagiaSucede();
+            // Ejercicio04_3.DondeLaMagiaSucede();
 
-            // Ejercicio5_1.DondeLaMagiaSucede();
-            // Ejercicio5_2.DondeLaMagiaSucede();
-            // Ejercicio5_3.DondeLaMagiaSucede();
-            // Ejercicio5_4.DondeLaMagiaSucede();
-            // Ejercicio5_5.DondeLaMagiaSucede();
+            // Ejercicio05_1.DondeLaMagiaSucede();
+            // Ejercicio05_2.DondeLaMagiaSucede();
+            // Ejercicio05_3.DondeLaMagiaSucede();
+            // Ejercicio05_4.DondeLaMagiaSucede();
+            // Ejercicio05_5.DondeLaMagiaSucede();
 
-            // Ejercicio6_1.DondeLaMagiaSucede();
-            // Ejercicio6_2.DondeLaMagiaSucede();
-            // Ejercicio6_3.DondeLaMagiaSucede();
-            // Ejercicio6_4.DondeLaMagiaSucede();
-            // Ejercicio6_5.DondeLaMagiaSucede();
+            // Ejercicio06_1.DondeLaMagiaSucede();
+            // Ejercicio06_2.DondeLaMagiaSucede();
+            // Ejercicio06_3.DondeLaMagiaSucede();
+            // Ejercicio06_4.DondeLaMagiaSucede();
+            // Ejercicio06_5.DondeLaMagiaSucede();
 
-            // Ejercicio7_1.DondeLaMagiaSucede();
+            // Ejercicio07_1.DondeLaMagiaSucede();
+
+            // Ejercicio10_1.DondeLaMagiaSucede();
+
+            // Ejercicio11_1.DondeLaMagiaSucede();
 
         }
     }

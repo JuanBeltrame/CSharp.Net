@@ -6,43 +6,42 @@ using System.Threading.Tasks;
 
 namespace LibreriaDeCondicionales
 {
-    #region Enunciado 
+    #region Enunciado
     /*
-     Haer un programa para ingresar 2 numeros enteros y que luego emita por pantalla el mayor de ellos
-    o un cartel aclaratorio "Son Iguales" en el caso de que asi sea. 
+     Dados 2 numeros enteros distintos, encontrar e informar cual es el mayor.
      */
     #endregion
-    public class Ejercicio6_1
+    public class Ejercicio05_1
     {
         private static void CargaYCalculo()
         {
-            int num1;
-            int num2;
-
-            Console.WriteLine("Ingresar 2 numeros: ");
+            int num1, num2;
+            int mayor = 0;
+            
+            Console.WriteLine("Ingrese 2 numeros: ");
 
             num1 = int.Parse(Console.ReadLine());
             num2 = int.Parse(Console.ReadLine());
 
             if (num1 == num2)
             {
-                Console.WriteLine($"Los numeros {num1} y {num2} ingresados son iguales");
+                Console.WriteLine("Los numeros no deben ser iguales");
             }
             else if (num1 > num2)
             {
-                Console.WriteLine("El numero {0} es el mayor de los 2", num1);
+                mayor = num1;
+                Console.WriteLine("El numero mas grande de los dos es el: {0}",mayor);
             }
             else
             {
-                Console.WriteLine("El numero {0} es el mayor de los 2", num2);
+                mayor = num2;
+                Console.WriteLine("El numero mas grande de los dos es el {0}",mayor);
             }
         }
-
         private static void Mostrar()
         {
             CargaYCalculo();
         }
-
         public static void DondeLaMagiaSucede()
         {
             Mostrar();

@@ -13,12 +13,13 @@ namespace LibreriaDeCondicionales
     Indicar la cantidad de numeros ingresados. 
     */
     #endregion
-    public class Ejercicio2_2
+        public class Ejercicio02_3
     {
         private static void CargaYCalculo()
         {
             int numero;
             int contador = 0;
+            int acumulador = 0;
 
             Console.WriteLine("Ingrese un numero: ");
             numero = int.Parse(Console.ReadLine());
@@ -27,18 +28,24 @@ namespace LibreriaDeCondicionales
             if (numero > 0)
             {
                 contador += 1;
+                acumulador += numero;
+                Console.WriteLine("El valor del acumulador es: {0}",acumulador);
                 Console.WriteLine($"Se ingreso {contador} solo numero");
                 Console.WriteLine($"El numero ingresado {numero} es Positivo");
             }
             else if (numero < 0)
             {
                 contador += 1;
+                acumulador += numero;
+                Console.WriteLine("El valor del acumulador es: {0}", acumulador);
                 Console.WriteLine($"Se ingreso {contador} solo numero");
                 Console.WriteLine($"El numero ingresado {numero} es Negativo");
             }
             else
             {
                 contador += 1;
+                acumulador += numero;
+                Console.WriteLine("El valor del acumulador es: {0}", acumulador);
                 Console.WriteLine($"Se ingreso {contador} solo numero");
                 Console.WriteLine("El numero ingresado ha sido el numero: {0}", numero);
             }

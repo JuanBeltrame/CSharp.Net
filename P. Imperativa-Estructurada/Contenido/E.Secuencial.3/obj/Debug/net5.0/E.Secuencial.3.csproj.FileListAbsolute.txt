@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\E.Sec
 C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\P.Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\ref\E.Secuencial.3.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\bin\Debug\net5.0\E.Secuencial.3.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\refint\E.Secuencial.3.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\E.Secuencial.3.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.3\obj\Debug\net5.0\ref\E.Secuencial.3.dll

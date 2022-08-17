@@ -13,10 +13,9 @@ namespace LibreriaDeCondicionales
     Indicar la cantidad de numeros ingresados y finalmente guardar los valores ingresados en un acumulador
     e indicar el valor final del acumulador.
     Mostrar el promedio obtenido de los numeros ingresados.
-    Indicar en que posicion ingreso el numero mas chico.
      */
     #endregion
-    public class Ejercicio6_5
+    public class Ejercicio06_4
     {
         private static void CargaYCalculo()
         {
@@ -25,11 +24,9 @@ namespace LibreriaDeCondicionales
             int contador = 0;
             int acumulador = 0;
             float promedio = 0;
-            int posicion1 = 1;
-            int posicion2 = 2;
+            int maximo = 0;
 
             Console.WriteLine("Ingresar 2 numeros: ");
-            Console.WriteLine();
 
             num1 = int.Parse(Console.ReadLine());
             num2 = int.Parse(Console.ReadLine());
@@ -41,26 +38,23 @@ namespace LibreriaDeCondicionales
 
             if (num1 == num2)
             {
-                Console.WriteLine();
                 Console.WriteLine($"Los numeros {num1} y {num2} ingresados son iguales");
                 Console.WriteLine("Se ingreso la siguientes cantidad de numeros: {0}", contador);
                 Console.WriteLine("El valor acumulado en el acumulador es: " + acumulador);
-                Console.WriteLine("El promedio de los numeros ingresados es de: {0}", promedio);
+                Console.WriteLine("El promedio de los numeros ingresados es de: {0}",promedio);
             }
             else if (num1 > num2)
             {
-                Console.WriteLine();
-                Console.WriteLine("El numero mas chicho ingreso en la posicion: {0}",posicion2);
-                Console.WriteLine("El numero {0} es el mayor de los 2", num1);
+                maximo = num1;
+                Console.WriteLine("El numero {0} es el mayor de los 2", maximo);
                 Console.WriteLine("Se ingreso la siguientes cantidad de numeros: {0}", contador);
                 Console.WriteLine("El valor acumulado en el acumulador es: " + acumulador);
                 Console.WriteLine("El promedio de los numeros ingresados es de: {0}", promedio);
             }
             else
             {
-                Console.WriteLine();
-                Console.WriteLine("El numero mas chicho ingreso en la posicion: {0}", posicion1);
-                Console.WriteLine("El numero {0} es el mayor de los 2", num2);
+                maximo = num2;
+                Console.WriteLine("El numero {0} es el mayor de los 2", maximo);
                 Console.WriteLine("Se ingreso la siguientes cantidad de numeros: {0}", contador);
                 Console.WriteLine("El valor acumulado en el acumulador es: " + acumulador);
                 Console.WriteLine("El promedio de los numeros ingresados es de: {0}", promedio);

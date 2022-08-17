@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
     e indicar el valor final del acumulador. 
      */
     #endregion
-    public class Ejercicio6_3
+    public class Ejercicio06_3
     {
         private static void CargaYCalculo()
         {
@@ -22,6 +22,7 @@ namespace LibreriaDeCondicionales
             int num2;
             int contador = 0;
             int acumulador = 0;
+            int maximo = 0;
 
             Console.WriteLine("Ingresar 2 numeros: ");
 
@@ -40,13 +41,15 @@ namespace LibreriaDeCondicionales
             }
             else if (num1 > num2)
             {
-                Console.WriteLine("El numero {0} es el mayor de los 2", num1);
+                maximo = num1; 
+                Console.WriteLine("El numero {0} es el mayor de los 2", maximo);
                 Console.WriteLine("Se ingreso la siguientes cantidad de numeros: {0}", contador);
                 Console.WriteLine("El valor acumulado en el acumulador es: " + acumulador);
             }
             else
             {
-                Console.WriteLine("El numero {0} es el mayor de los 2", num2);
+                maximo = num2;
+                Console.WriteLine("El numero {0} es el mayor de los 2", maximo);
                 Console.WriteLine("Se ingreso la siguientes cantidad de numeros: {0}", contador);
                 Console.WriteLine("El valor acumulado en el acumulador es: " + acumulador);
             }
