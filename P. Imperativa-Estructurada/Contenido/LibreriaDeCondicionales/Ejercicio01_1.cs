@@ -14,6 +14,11 @@ namespace LibreriaDeCondicionales
 
     public class Ejercicio01_1
     {
+        private static void Bienvenida()
+        {
+            Console.WriteLine("Se Ingreso al: "+nameof(Ejercicio01_1));
+            Console.WriteLine();
+        }
         private static void CargaYCalculo()
         {
             int numero1;
@@ -34,6 +39,7 @@ namespace LibreriaDeCondicionales
         }
         private static void Mostrar()
         {
+            Bienvenida();
             CargaYCalculo();
         }
         public static void DondeLaMagiaSucede()
