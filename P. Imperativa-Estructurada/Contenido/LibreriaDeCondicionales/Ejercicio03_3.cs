@@ -15,6 +15,11 @@ namespace LibreriaDeCondicionales
     #endregion
     public class Ejercicio03_3
     {
+        private static void Bienvenida()
+        {
+            Console.WriteLine("Se Ingreso al: " + nameof(Ejercicio03_3));
+            Console.WriteLine();
+        }
         private static void CargaYCalculo()
         {
             int numero;
@@ -43,10 +48,14 @@ namespace LibreriaDeCondicionales
                 Console.WriteLine("El numero ingresado es Impar:");
             }
         }
-
+        private static void Mostrar()
+        {
+            Bienvenida();
+            CargaYCalculo();
+        }
         public static void DondeLaMagiaSucede()
         {
-            CargaYCalculo();
+            Mostrar();
         }
     }
 }

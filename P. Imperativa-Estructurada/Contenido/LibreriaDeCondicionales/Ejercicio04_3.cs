@@ -15,6 +15,11 @@ namespace LibreriaDeCondicionales
     #endregion
     public class Ejercicio04_3
     {
+        private static void Bienvenida()
+        {
+            Console.WriteLine("Se Ingreso al: " + nameof(Ejercicio04_3));
+            Console.WriteLine();
+        }
         private static void CargaYCalculo()
         {
             int numero, contador, acumulador;
@@ -30,7 +35,7 @@ namespace LibreriaDeCondicionales
                 contador += 1;
                 acumulador += numero;
                 Console.WriteLine("La cantidad de numeros ingresados son: {0}", contador);
-                Console.WriteLine("Se ingreso el numero: "+ numero);
+                Console.WriteLine("Se ingreso el numero: " + numero);
                 Console.WriteLine("Dicho numero ingresado es Mayor a 10");
                 Console.WriteLine($"El valor acumulado es: {acumulador}");
             }
@@ -38,15 +43,16 @@ namespace LibreriaDeCondicionales
             {
                 contador++;
                 acumulador += numero;
-                
+
                 Console.WriteLine("La cantidad de numeros ingresados son: {0}", contador);
-                Console.WriteLine("Se ingreso el numero: "+numero);
+                Console.WriteLine("Se ingreso el numero: " + numero);
                 Console.WriteLine("El numero ingresado es menor a 10");
                 Console.WriteLine($"El valor acumulado es: {acumulador}");
             }
         }
         private static void Mostrar()
         {
+            Bienvenida();
             CargaYCalculo();
         }
         public static void DondeLaMagiaSucede()

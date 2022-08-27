@@ -56,25 +56,54 @@ namespace ConsolaParaCondicionales
 
                 case 03.1f:
                     Console.WriteLine();
+                    Ejercicio03_1.DondeLaMagiaSucede();
                     break;
                 case 03.2f:
                     Console.WriteLine();
+                    Ejercicio03_2.DondeLaMagiaSucede();
                     break;
                 case 03.3f:
                     Console.WriteLine();
+                    Ejercicio03_3.DondeLaMagiaSucede();
                     break;
 
 
                 case 04.1f:
                     Console.WriteLine();
+                    Ejercicio04_1.DondeLaMagiaSucede();
                     break;
                 case 04.2f:
                     Console.WriteLine();
+                    Ejercicio04_2.DondeLaMagiaSucede();
                     break;
                 case 04.3f:
                     Console.WriteLine();
-
+                    Ejercicio04_3.DondeLaMagiaSucede();
                     break;
+
+
+                case 05.1f:
+                    Console.WriteLine();
+                    Ejercicio05_1.DondeLaMagiaSucede();
+                    break;
+                case 05.2f:
+                    Console.WriteLine();
+                    Ejercicio05_2.DondeLaMagiaSucede();
+                    break;
+                case 05.3f:
+                    Console.WriteLine();
+                    Ejercicio05_3.DondeLaMagiaSucede();
+                    break;
+                case 05.4f:
+                    Console.WriteLine();
+                    Ejercicio05_4.DondeLaMagiaSucede();
+                    break;
+                case 05.5f:
+                    Console.WriteLine();
+                    Ejercicio05_5.DondeLaMagiaSucede();
+                    break;
+
+
                 case 08.1f:
                     Console.WriteLine();
                     Ejercicio08_1.DondeSucedeLaMagia();
