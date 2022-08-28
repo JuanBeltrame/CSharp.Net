@@ -13,6 +13,11 @@ namespace LibreriaDeCondicionales
     #endregion
     public class Ejercicio10_1
     {
+        private static void Bievenida()
+        {
+            Console.WriteLine("Se ingreso al ejercicio {0}", nameof(Ejercicio10_1));
+            Console.WriteLine();
+        }
         private static void CargaYCalculo()
         {
             int n1, n2, n3;
@@ -20,9 +25,13 @@ namespace LibreriaDeCondicionales
 
             Console.WriteLine("Ingresar 3 numeros distintos: ");
 
-            n1 = int.Parse(Console.ReadLine());
-            n2 = int.Parse(Console.ReadLine());
-            n3 = int.Parse(Console.ReadLine());
+            string texto1 = Console.ReadLine();
+            string texto2 = Console.ReadLine();
+            string texto3 = Console.ReadLine();
+
+            n1 = int.Parse(texto1);
+            n2 = int.Parse(texto2);
+            n3 = int.Parse(texto3);
 
             if (n1 > n2)
                 maximo = n1;
@@ -32,12 +41,12 @@ namespace LibreriaDeCondicionales
                 maximo = n3;
             else
             {
-
+                Console.WriteLine("El mayor numero de los 3 ingresados es el {0}", maximo);
             }
-            Console.WriteLine("El mayor numero de los 3 ingresados es el {0}", maximo);
         }
         private static void Mostrar()
         {
+            Bievenida();
             CargaYCalculo();
         }
         public static void DondeLaMagiaSucede()

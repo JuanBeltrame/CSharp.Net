@@ -103,6 +103,19 @@ namespace ConsolaParaCondicionales
                     Ejercicio05_5.DondeLaMagiaSucede();
                     break;
 
+                case 06.1f:
+                    Console.WriteLine();
+                    Ejercicio06_1.DondeLaMagiaSucede();
+                    break;
+                case 06.2f:
+                    Console.WriteLine();
+                    Ejercicio06_2.DondeLaMagiaSucede();
+                    break;
+
+                case 07.7f:
+                    Console.WriteLine();
+                    Ejercicio07_7.DondeLaMagiaSucede();
+                    break;
 
                 case 08.1f:
                     Console.WriteLine();
@@ -132,6 +145,15 @@ namespace ConsolaParaCondicionales
                     Console.WriteLine();
                     Ejercicio08_7.DondeSucedeLaMagia();
                     break;
+                case 08.8f:
+                    Console.WriteLine();
+                    Ejercicio08_8.DondeSucedeLaMagia();
+                    break;
+
+                case 10.1f:
+                    Console.WriteLine();
+                    Ejercicio10_1.DondeLaMagiaSucede();
+                    break;
                 default:
                     break;
 
@@ -143,26 +165,6 @@ namespace ConsolaParaCondicionales
         static void Main(string[] args)
         {
             SeleccionDeEjercicio();
-            
-            // EjemplosConIF.EjemploDeIf1();
-            // EjemplosConIF.EjemploContador1();
-            // EjemplosConIF.EjemploContador2();
-            // EjemplosConIF.EjemploAcumulador();
-            // EjemlosConIF.EjemploAcumuladoryContador();
-
-            // Ejercicio03_1.DondeLaMagiaSucede();
-            // Ejercicio03_2.DondeLaMagiaSucede();
-            // Ejercicio03_3.DondeLaMagiaSucede();
-
-            // Ejercicio04_1.DondeLaMagiaSucede();
-            // Ejercicio04_2.DondeLaMagiaSucede();
-            // Ejercicio04_3.DondeLaMagiaSucede();
-
-            // Ejercicio05_1.DondeLaMagiaSucede();
-            // Ejercicio05_2.DondeLaMagiaSucede();
-            // Ejercicio05_3.DondeLaMagiaSucede();
-            // Ejercicio05_4.DondeLaMagiaSucede();
-            // Ejercicio05_5.DondeLaMagiaSucede();
 
             // Ejercicio06_1.DondeLaMagiaSucede();
             // Ejercicio06_2.DondeLaMagiaSucede();
