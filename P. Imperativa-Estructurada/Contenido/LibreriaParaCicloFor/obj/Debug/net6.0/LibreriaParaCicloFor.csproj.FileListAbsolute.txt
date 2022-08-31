@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\bin\Debug\net6.0\LibreriaParaCicloFor.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\bin\Debug\net6.0\LibreriaParaCicloFor.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\bin\Debug\net6.0\LibreriaParaCicloFor.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\refint\LibreriaParaCicloFor.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\LibreriaParaCicloFor.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\LibreriaParaCicloFor\obj\Debug\net6.0\ref\LibreriaParaCicloFor.dll

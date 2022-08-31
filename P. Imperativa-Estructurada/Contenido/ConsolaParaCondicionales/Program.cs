@@ -36,7 +36,7 @@ namespace ConsolaParaCondicionales
                     break;
                 case 01.4f:
                     Console.WriteLine();
-                    Ejercicio01_4.DondeSucedeLaMagia();
+                    Ejercicio01_4.DondeLaMagiaSucede();
                     break;
 
 
@@ -154,35 +154,46 @@ namespace ConsolaParaCondicionales
                     Console.WriteLine();
                     Ejercicio10_1.DondeLaMagiaSucede();
                     break;
+                case 10.2f:
+                    Console.WriteLine();
+                    Ejercicio10_2.DondeLaMagiaSucede();
+                    break;
+                case 10.3f:
+                    Console.WriteLine();
+                    Ejercicio10_3.DondeLaMagiaSucede();
+                    break;
+                case 10.4f:
+                    Console.WriteLine();
+                    Ejercicio10_4.DondeLaMagiaSucede();
+                    break;
+                case 10.5f:
+                    Console.WriteLine();
+                    Ejercicio10_5.DondeLaMagiaSucede();
+                    break;
+                case 10.6f:
+                    Console.WriteLine();
+                    Ejercicio10_6.DondeLaMagiaSucede();
+                    break;
+                case 10.7f:
+                    Console.WriteLine();
+                    Ejercicio10_7.DondeLaMagiaSucede();
+                    break;
                 default:
+                case 11.1f:
+                    Console.WriteLine();
+                    Ejercicio11_1.DondeLaMagiaSucede();
                     break;
 
             }
         }
-
-
+        private static void Menu()
+        {
+            SeleccionDeEjercicio();
+        }
 
         static void Main(string[] args)
         {
-            SeleccionDeEjercicio();
-
-            // Ejercicio06_1.DondeLaMagiaSucede();
-            // Ejercicio06_2.DondeLaMagiaSucede();
-            // Ejercicio06_3.DondeLaMagiaSucede();
-            // Ejercicio06_4.DondeLaMagiaSucede();
-            // Ejercicio06_5.DondeLaMagiaSucede();
-
-            // Ejercicio07_1.DondeLaMagiaSucede();
-            // Ejercicio07_2.DondeLaMagiaSucede();
-            // Ejercicio07_3.DondeLaMagiaSucede();
-            // Ejercicio07_4.DondeLaMagiaSucede();
-            // Ejercicio07_5.DondeLaMagiaSucede();
-            // Ejercicio07_6.DondeLaMagiaSucede();
-
-            // Ejercicio10_1.DondeLaMagiaSucede();
-
-            // Ejercicio11_1.DondeLaMagiaSucede();
-
+            Menu();
         }
     }
 }

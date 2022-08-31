@@ -12,9 +12,13 @@ namespace LibreriaDeCondicionales
         /*
         Hacer un programa para ingresar 4 numeros distintos
         y luego mostrar el Mayor de ellos. 
-         */
-
+        */
         #endregion
+        private static void Bievenida()
+        {
+            Console.WriteLine("Se ingreso al ejercicio {0}", nameof(Ejercicio11_1));
+            Console.WriteLine();
+        }
         private static void CargaYCalculoOp1()
         {
             int num1, num2, num3, num4;
@@ -46,18 +50,24 @@ namespace LibreriaDeCondicionales
             }
         }
 
-        private static void CargaYCalculOp2()
+        private static void CargaYCalculOp2() // Esta forma es mucho mas optima
         {
+            string texto1,texto2,texto3,texto4;
             int a, b, c, d;
             int maximo = 0;
 
             Console.WriteLine("Ingresar 4 numeros enteros distintos: ");
             Console.WriteLine();
 
-            a = int.Parse(Console.ReadLine());
-            b = int.Parse(Console.ReadLine());
-            c = int.Parse(Console.ReadLine());
-            d = int.Parse(Console.ReadLine());
+            texto1 = Console.ReadLine();
+            texto2 = Console.ReadLine();
+            texto3 = Console.ReadLine();
+            texto4 = Console.ReadLine();
+
+            a = int.Parse(texto1);
+            b = int.Parse(texto2);
+            c = int.Parse(texto3);
+            d = int.Parse(texto4);
 
             if (a > b)
                 maximo = a;
@@ -65,17 +75,10 @@ namespace LibreriaDeCondicionales
                 maximo = b;
             if (c > maximo)
                 maximo = c;
-            else
-            {
-
-            }
-
+            
             if (d > maximo)
                 maximo = d;
-            else
-            {
 
-            }
 
             Console.WriteLine("El numero ingresado de mayor valor fue el {0}", maximo);
         }

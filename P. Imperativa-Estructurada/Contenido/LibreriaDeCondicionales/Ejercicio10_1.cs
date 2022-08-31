@@ -38,10 +38,15 @@ namespace LibreriaDeCondicionales
             else
                 maximo = n2;
             if (n3 > maximo)
+            {
                 maximo = n3;
+                Console.WriteLine(". El mayor numero de los 3 ingresados es el {0}", maximo);
+                Console.WriteLine();
+            }
             else
             {
                 Console.WriteLine("El mayor numero de los 3 ingresados es el {0}", maximo);
+
             }
         }
         private static void Mostrar()
