@@ -14,3 +14,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Delegados\obj\Debug\net5.0\refint\
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Delegados\obj\Debug\net5.0\Delegados.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Delegados\obj\Debug\net5.0\Delegados.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Delegados\obj\Debug\net5.0\ref\Delegados.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\bin\Debug\net5.0\Delegados.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\refint\Delegados.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\Delegados.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Delegados\obj\Debug\net5.0\ref\Delegados.dll

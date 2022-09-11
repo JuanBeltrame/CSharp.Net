@@ -22,3 +22,15 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Logica\obj\Debug\net5.0\Logica.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Logica\obj\Debug\net5.0\refint\Logica.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Logica\obj\Debug\net5.0\Logica.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\refint\Logica.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Logica\obj\Debug\net5.0\ref\Logica.dll

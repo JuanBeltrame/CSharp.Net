@@ -22,3 +22,15 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\PuestoDeAtencion(Biblioteca)\obj\D
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\refint\PuestoDeAtencion(Biblioteca).dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\ref\PuestoDeAtencion(Biblioteca).dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\bin\Debug\net5.0\PuestoDeAtencion(Biblioteca).deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\bin\Debug\net5.0\PuestoDeAtencion(Biblioteca).dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\bin\Debug\net5.0\PuestoDeAtencion(Biblioteca).pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\refint\PuestoDeAtencion(Biblioteca).dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\PuestoDeAtencion(Biblioteca).pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\PuestoDeAtencion(Biblioteca)\obj\Debug\net5.0\ref\PuestoDeAtencion(Biblioteca).dll

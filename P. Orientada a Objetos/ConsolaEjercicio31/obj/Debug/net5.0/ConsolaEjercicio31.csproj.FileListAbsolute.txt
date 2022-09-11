@@ -36,3 +36,22 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEjercicio31\obj\Debug\net5.
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEjercicio31\obj\Debug\net5.0\ref\ConsolaEjercicio31.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\ConsolaEjercicio31.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\PuestoDeAtencion(Biblioteca).dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\bin\Debug\net5.0\PuestoDeAtencion(Biblioteca).pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\refint\ConsolaEjercicio31.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ConsolaEjercicio31.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEjercicio31\obj\Debug\net5.0\ref\ConsolaEjercicio31.dll

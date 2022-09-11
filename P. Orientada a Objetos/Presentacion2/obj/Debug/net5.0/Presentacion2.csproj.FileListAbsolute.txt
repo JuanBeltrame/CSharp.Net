@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion2\obj\Debug\net5.0\ref
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion2\obj\Debug\net5.0\Presentacion2.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion2\obj\Debug\net5.0\Presentacion2.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion2\obj\Debug\net5.0\ref\Presentacion2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\bin\Debug\net5.0\Presentacion2.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\refint\Presentacion2.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\Presentacion2.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion2\obj\Debug\net5.0\ref\Presentacion2.dll

@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\SobrecargaConstructores\obj\Debug\
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\SobrecargaConstructores\obj\Debug\net5.0\ref\SobrecargaConstructores.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\bin\Debug\net5.0\SobrecargaConstructores.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\refint\SobrecargaConstructores.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\SobrecargaConstructores.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\SobrecargaConstructores\obj\Debug\net5.0\ref\SobrecargaConstructores.dll

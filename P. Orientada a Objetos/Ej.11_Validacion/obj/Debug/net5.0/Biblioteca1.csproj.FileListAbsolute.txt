@@ -10,3 +10,15 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\refint\Biblioteca1.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Ej.11_Validacion\obj\Debug\net5.0\ref\Biblioteca1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca1.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\bin\Debug\net5.0\Biblioteca1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\refint\Biblioteca1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\Biblioteca1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Ej.11_Validacion\obj\Debug\net5.0\ref\Biblioteca1.dll

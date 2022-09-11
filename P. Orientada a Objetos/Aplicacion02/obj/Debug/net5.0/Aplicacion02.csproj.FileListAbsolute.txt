@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Aplicacion02\obj\Debug\net5.0\refi
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Aplicacion02\obj\Debug\net5.0\Aplicacion02.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Aplicacion02\obj\Debug\net5.0\Aplicacion02.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Aplicacion02\obj\Debug\net5.0\ref\Aplicacion02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\bin\Debug\net5.0\Aplicacion02.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\refint\Aplicacion02.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\Aplicacion02.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Aplicacion02\obj\Debug\net5.0\ref\Aplicacion02.dll

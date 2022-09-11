@@ -17,3 +17,22 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEj11\obj\Debug\net5.0\Conso
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEj11\obj\Debug\net5.0\ref\ConsolaEj11.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEj11\bin\Debug\net5.0\Biblioteca1.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaEj11\bin\Debug\net5.0\Biblioteca1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\ConsolaEj11.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\Biblioteca1.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\bin\Debug\net5.0\Biblioteca1.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\refint\ConsolaEj11.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ConsolaEj11.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaEj11\obj\Debug\net5.0\ref\ConsolaEj11.dll

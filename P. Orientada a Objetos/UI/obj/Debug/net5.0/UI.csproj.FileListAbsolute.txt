@@ -36,3 +36,22 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\UI\obj\Debug\net5.0\refint\UI.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\UI\obj\Debug\net5.0\UI.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\UI\obj\Debug\net5.0\UI.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\UI\obj\Debug\net5.0\ref\UI.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\UI.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\Logica.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\bin\Debug\net5.0\Logica.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\refint\UI.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\UI.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\UI\obj\Debug\net5.0\ref\UI.dll

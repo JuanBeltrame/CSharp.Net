@@ -17,3 +17,22 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaHerencia\obj\Debug\net5.0\r
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaHerencia\bin\Debug\net5.0\Entidades.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaHerencia\bin\Debug\net5.0\Entidades.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\ConsolaHerencia.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\Entidades.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\bin\Debug\net5.0\Entidades.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.csproj.CopyComplete
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\refint\ConsolaHerencia.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ConsolaHerencia.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\ConsolaHerencia\obj\Debug\net5.0\ref\ConsolaHerencia.dll

@@ -10,3 +10,15 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Entidades\obj\Debug\net5.0\Entidad
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Entidades\obj\Debug\net5.0\ref\Entidades.dll

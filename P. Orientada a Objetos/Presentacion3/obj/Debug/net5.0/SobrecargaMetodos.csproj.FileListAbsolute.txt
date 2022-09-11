@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion3\obj\Debug\net5.0\ref
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Presentacion3\obj\Debug\net5.0\ref\SobrecargaMetodos.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\bin\Debug\net5.0\SobrecargaMetodos.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\refint\SobrecargaMetodos.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\SobrecargaMetodos.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Presentacion3\obj\Debug\net5.0\ref\SobrecargaMetodos.dll

@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Colecciones\obj\Debug\net5.0\refin
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Colecciones\obj\Debug\net5.0\Colecciones.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Colecciones\obj\Debug\net5.0\Colecciones.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\C#.UTN\Colecciones\obj\Debug\net5.0\ref\Colecciones.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.exe
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\bin\Debug\net5.0\Colecciones.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\refint\Colecciones.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\Colecciones.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Colecciones\obj\Debug\net5.0\ref\Colecciones.dll
