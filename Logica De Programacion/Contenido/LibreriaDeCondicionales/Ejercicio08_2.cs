@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     el mayor de ellos con el menor. Indicar al cantidad de numeros ingresados. 
     */
     #endregion
-    public class Ejercicio08_2
+    public sealed class Ejercicio08_2
     {
 
         private static void Bienvenida()

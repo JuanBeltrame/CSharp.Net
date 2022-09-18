@@ -15,7 +15,8 @@ namespace LibreriaDeCondicionales
     Descontar el 10% al número ingresado y luego sumar el 110% al número ingresado.
     */
     #endregion
-    public class Ejercicio01_5
+
+    public sealed class Ejercicio01_5
     {
         private static void Bienvenida()
         {

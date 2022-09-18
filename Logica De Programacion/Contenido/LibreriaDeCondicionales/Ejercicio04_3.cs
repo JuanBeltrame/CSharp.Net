@@ -13,7 +13,7 @@ namespace LibreriaDeCondicionales
     guardar el numero ingresado en un acumulador e indicar el valor final del acumulador. 
     */
     #endregion
-    public class Ejercicio04_3
+    public sealed class Ejercicio04_3
     {
         private static void Bienvenida()
         {

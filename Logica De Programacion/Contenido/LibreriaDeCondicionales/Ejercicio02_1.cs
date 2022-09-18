@@ -12,7 +12,8 @@ namespace LibreriaDeCondicionales
     "Positivo" si el numero es mayor cero, "Negativo" si el numero es menor a cero o "Cero" si el numero es igual a cero. 
     */
     #endregion
-    public class Ejercicio02_1
+
+    public sealed class Ejercicio02_1
     {
         private static void Bienvenida()
         {

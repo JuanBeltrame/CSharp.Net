@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     Indicar la cantidad de números ingresados. 
      */
     #endregion
-    public class Ejercicio10_2
+    public sealed class Ejercicio10_2
     {
         private static void Bievenida()
         {

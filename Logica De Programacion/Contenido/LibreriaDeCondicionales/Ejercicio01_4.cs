@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
     */
     #endregion
 
-    public class Ejercicio01_4
+    public sealed class Ejercicio01_4
     {
         private static void Bienvenida()
         {

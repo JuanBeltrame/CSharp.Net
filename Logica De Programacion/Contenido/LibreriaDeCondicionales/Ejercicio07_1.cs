@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
      */
 
     #endregion
-    public class Ejercicio07_1
+    public sealed class Ejercicio07_1
     {
         private static void CargaYCalculo()
         {

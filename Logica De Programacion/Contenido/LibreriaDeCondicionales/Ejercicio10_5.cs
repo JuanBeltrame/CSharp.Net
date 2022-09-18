@@ -15,7 +15,7 @@ namespace LibreriaDeCondicionales
     Indicar en qué posición ingresó el número más chico. 
      */
     #endregion
-    public class Ejercicio10_5
+    public sealed class Ejercicio10_5
     {
         private static void Bievenida()
         {

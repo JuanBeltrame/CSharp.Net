@@ -11,7 +11,7 @@ namespace LibreriaDeCondicionales
      Dados 2 numeros enteros distintos, encontrar e informar cual es el mayor.
      */
     #endregion
-    public class Ejercicio05_1
+    public sealed class Ejercicio05_1
     {
         private static void Bienvenida()
         {

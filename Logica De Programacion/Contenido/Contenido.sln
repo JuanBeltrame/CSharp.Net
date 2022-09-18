@@ -31,9 +31,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Arreglos", "08. Arreglo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Ciclos-Bucles-Repeticion-Iteracion", "04. Ciclos-Bucles-Repeticion-Iteracion", "{550D6FC2-5616-4765-95EF-2279C8D06BB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaParaCicloFor", "ConsolaParaCicloFor\ConsolaParaCicloFor.csproj", "{531173D2-865B-4B14-8CBD-AE8CFE1989B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCicloFor", "ConsolaParaCicloFor\ConsolaParaCicloFor.csproj", "{531173D2-865B-4B14-8CBD-AE8CFE1989B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaParaCicloFor", "LibreriaParaCicloFor\LibreriaParaCicloFor.csproj", "{DD72606B-9E56-4C49-8157-A9E2216C9223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaParaCicloFor", "LibreriaParaCicloFor\LibreriaParaCicloFor.csproj", "{DD72606B-9E56-4C49-8157-A9E2216C9223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantillaParaPracticarCodigoDiariamente", "PlantillaParaPracticarCodigoDiariamente\PlantillaParaPracticarCodigoDiariamente.csproj", "{7C69C822-D8B3-4385-95E8-721BDE10FA6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{DD72606B-9E56-4C49-8157-A9E2216C9223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD72606B-9E56-4C49-8157-A9E2216C9223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD72606B-9E56-4C49-8157-A9E2216C9223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

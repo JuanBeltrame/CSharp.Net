@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
     Mostrar el promedio obtenido de los números ingresados.
      */
     #endregion
-    public class Ejercicio10_4
+    public sealed class Ejercicio10_4
     {
         private static void Bievenida()
         {

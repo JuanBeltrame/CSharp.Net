@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     o un cartel aclaratorio "Son Iguales" en el caso de que asi sea. 
      */
     #endregion
-    public class Ejercicio06_1
+    public sealed class Ejercicio06_1
     {
         private static void Bienvenida()
         {

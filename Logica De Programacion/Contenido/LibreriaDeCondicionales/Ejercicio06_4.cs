@@ -15,7 +15,7 @@ namespace LibreriaDeCondicionales
     Mostrar el promedio obtenido de los numeros ingresados.
      */
     #endregion
-    public class Ejercicio06_4
+    public sealed class Ejercicio06_4
     {
         private static void CargaYCalculo()
         {

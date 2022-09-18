@@ -19,7 +19,7 @@ namespace LibreriaDeCondicionales
      */
 
     #endregion
-    public class Ejercicio07_7
+    public sealed class Ejercicio07_7
     {
         private static void Bienvenida()
         {

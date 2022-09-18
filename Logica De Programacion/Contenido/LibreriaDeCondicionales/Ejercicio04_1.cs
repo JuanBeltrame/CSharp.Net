@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     "Es mayor a 10" o "No es mayor a 10";
     */
     #endregion
-    public class Ejercicio04_1
+    public sealed class Ejercicio04_1
     {
         private static void Bienvenida()
         {

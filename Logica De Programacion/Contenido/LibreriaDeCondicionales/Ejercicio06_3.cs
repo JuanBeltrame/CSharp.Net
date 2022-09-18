@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
     e indicar el valor final del acumulador. 
      */
     #endregion
-    public class Ejercicio06_3
+    public sealed class Ejercicio06_3
     {
         private static void CargaYCalculo()
         {

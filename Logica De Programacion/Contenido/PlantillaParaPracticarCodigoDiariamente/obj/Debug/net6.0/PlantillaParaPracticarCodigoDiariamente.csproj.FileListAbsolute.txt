@@ -1,0 +1,15 @@
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\bin\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.exe
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\bin\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\bin\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\bin\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\bin\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\refint\PlantillaParaPracticarCodigoDiariamente.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\PlantillaParaPracticarCodigoDiariamente.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\PlantillaParaPracticarCodigoDiariamente\obj\Debug\net6.0\ref\PlantillaParaPracticarCodigoDiariamente.dll

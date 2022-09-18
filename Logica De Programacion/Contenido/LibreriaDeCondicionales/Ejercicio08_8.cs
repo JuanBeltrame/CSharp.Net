@@ -18,7 +18,7 @@ namespace LibreriaDeCondicionales
 
     */
     #endregion
-    public class Ejercicio08_8
+    public sealed class Ejercicio08_8
     {
 
         private static void Bienvenida()

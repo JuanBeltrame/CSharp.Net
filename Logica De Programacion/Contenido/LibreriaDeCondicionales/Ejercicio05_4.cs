@@ -14,7 +14,7 @@ namespace LibreriaDeCondicionales
     Mostrar el promedio final. 
      */
     #endregion
-    public class Ejercicio05_4
+    public sealed class Ejercicio05_4
     {
         private static void Bienvenida()
         {

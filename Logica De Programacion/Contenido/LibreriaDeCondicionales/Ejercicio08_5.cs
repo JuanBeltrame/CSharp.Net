@@ -15,7 +15,7 @@ namespace LibreriaDeCondicionales
     Indicar cual es el Mayor numero ingresado. 
     */
     #endregion
-    public class Ejercicio08_5
+    public sealed class Ejercicio08_5
     {
 
         private static void Bienvenida()

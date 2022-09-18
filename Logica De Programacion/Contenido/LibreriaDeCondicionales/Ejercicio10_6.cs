@@ -16,7 +16,7 @@ namespace LibreriaDeCondicionales
     Indicar si cada número ingresado es par o impar.
      */
     #endregion
-    public class Ejercicio10_6
+    public sealed class Ejercicio10_6
     {
         private static void Bievenida()
         {

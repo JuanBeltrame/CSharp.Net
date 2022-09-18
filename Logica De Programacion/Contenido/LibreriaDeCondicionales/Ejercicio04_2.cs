@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     "Es mayor a 10" o "No es mayor a 10". Indicar la cantidad de numeros ingresados.
     */
     #endregion
-    public class Ejercicio04_2
+    public sealed class Ejercicio04_2
     {
         private static void Bienvenida()
         {

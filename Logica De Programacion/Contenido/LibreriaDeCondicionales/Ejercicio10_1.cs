@@ -11,7 +11,7 @@ namespace LibreriaDeCondicionales
      Leer 3 numeros enteros diferentes e imprimir el numero mayor de los tres. 
      */
     #endregion
-    public class Ejercicio10_1
+    public sealed class Ejercicio10_1
     {
         private static void Bievenida()
         {

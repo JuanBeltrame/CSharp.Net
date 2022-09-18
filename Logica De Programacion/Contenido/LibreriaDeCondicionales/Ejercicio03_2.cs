@@ -11,7 +11,7 @@ namespace LibreriaDeCondicionales
      Ingresar un numero entero e indicar si el numero ingresado es Par o Impar. Indicar la cantidad de numeros ingresados. 
      */
     #endregion
-    public class Ejercicio03_2
+    public sealed class Ejercicio03_2
     {
         private static void Bienvenida()
         {

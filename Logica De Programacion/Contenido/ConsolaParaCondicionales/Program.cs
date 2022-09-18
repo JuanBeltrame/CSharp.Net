@@ -24,7 +24,7 @@ namespace ConsolaParaCondicionales
         {
             switch (NumeroDeEjercicio())
             {
-
+                // Ejercicios 1
                 case 01.1f:
                     Console.WriteLine();
                     Ejercicio01_1.DondeLaMagiaSucede();
@@ -46,7 +46,7 @@ namespace ConsolaParaCondicionales
                     Ejercicio01_5.DondeLaMagiaSucede();
                     break;
 
-
+                // Ejercicios 2
                 case 02.1f:
                     Console.WriteLine();
                     Ejercicio02_1.DondeLaMagiaSucede();
@@ -60,7 +60,7 @@ namespace ConsolaParaCondicionales
                     Ejercicio02_3.DondeLaMagiaSucede();
                     break;
 
-
+                // Ejercicios 3
                 case 03.1f:
                     Console.WriteLine();
                     Ejercicio03_1.DondeLaMagiaSucede();
@@ -74,7 +74,7 @@ namespace ConsolaParaCondicionales
                     Ejercicio03_3.DondeLaMagiaSucede();
                     break;
 
-
+                // Ejercicios 4
                 case 04.1f:
                     Console.WriteLine();
                     Ejercicio04_1.DondeLaMagiaSucede();
@@ -88,7 +88,7 @@ namespace ConsolaParaCondicionales
                     Ejercicio04_3.DondeLaMagiaSucede();
                     break;
 
-
+               // Ejercicios 5
                 case 05.1f:
                     Console.WriteLine();
                     Ejercicio05_1.DondeLaMagiaSucede();
@@ -110,6 +110,7 @@ namespace ConsolaParaCondicionales
                     Ejercicio05_5.DondeLaMagiaSucede();
                     break;
 
+                // Ejercicios 6
                 case 06.1f:
                     Console.WriteLine();
                     Ejercicio06_1.DondeLaMagiaSucede();
@@ -118,12 +119,50 @@ namespace ConsolaParaCondicionales
                     Console.WriteLine();
                     Ejercicio06_2.DondeLaMagiaSucede();
                     break;
+                case 06.3F:
+                    Console.WriteLine();
+                    Ejercicio06_3.DondeLaMagiaSucede();
+                    break;
+                case 06.4f:
+                    Console.WriteLine();
+                    Ejercicio06_4.DondeLaMagiaSucede();
+                    break;
+                case 06.5f:
+                    Console.WriteLine();
+                    Ejercicio06_5.DondeLaMagiaSucede();
+                    break;
 
+                // Ejercicios 7
+                case 07.1f:
+                    Console.WriteLine();
+                    Ejercicio07_1.DondeLaMagiaSucede();
+                    break;
+                case 07.2f:
+                    Console.WriteLine();
+                    Ejercicio07_2.DondeLaMagiaSucede();
+                    break;
+                case 07.3f:
+                    Console.WriteLine();
+                    Ejercicio07_3.DondeLaMagiaSucede();
+                    break;
+                case 07.4f:
+                    Console.WriteLine();
+                    Ejercicio07_4.DondeLaMagiaSucede();
+                    break;
+                case 07.5f:
+                    Console.WriteLine();
+                    Ejercicio07_5.DondeLaMagiaSucede();
+                    break;
+                case 07.6f:
+                    Console.WriteLine();
+                    Ejercicio07_6.DondeLaMagiaSucede();
+                    break;
                 case 07.7f:
                     Console.WriteLine();
                     Ejercicio07_7.DondeLaMagiaSucede();
                     break;
 
+                // Ejercicios 8
                 case 08.1f:
                     Console.WriteLine();
                     Ejercicio08_1.DondeSucedeLaMagia();
@@ -157,6 +196,13 @@ namespace ConsolaParaCondicionales
                     Ejercicio08_8.DondeSucedeLaMagia();
                     break;
 
+                // Ejercicios 9
+                case 09.1F:
+                    Console.WriteLine();
+                    Ejercicio09_1.DondeSucedeLaMagia();
+                    break;
+
+                // Ejercicios 10
                 case 10.1f:
                     Console.WriteLine();
                     Ejercicio10_1.DondeLaMagiaSucede();
@@ -185,7 +231,8 @@ namespace ConsolaParaCondicionales
                     Console.WriteLine();
                     Ejercicio10_7.DondeLaMagiaSucede();
                     break;
-                default:
+                
+                // Ejercicios 11
                 case 11.1f:
                     Console.WriteLine();
                     Ejercicio11_1.DondeLaMagiaSucede();

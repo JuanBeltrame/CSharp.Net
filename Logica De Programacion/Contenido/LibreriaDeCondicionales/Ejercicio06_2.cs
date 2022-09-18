@@ -13,7 +13,7 @@ namespace LibreriaDeCondicionales
     Indicar la cantidad de numeros ingresados. 
      */
     #endregion
-    public class Ejercicio06_2
+    public sealed class Ejercicio06_2
     {
         private static void CargaYCalculo()
         {

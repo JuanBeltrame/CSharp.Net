@@ -16,7 +16,7 @@ namespace LibreriaDeCondicionales
     Descontar el 10% y sumar el 110% al valor del acumulador. 
     */
     #endregion
-    public class Ejercicio08_7
+    public sealed class Ejercicio08_7
     {
 
         private static void Bienvenida()

@@ -17,7 +17,7 @@ namespace LibreriaDeCondicionales
     Descontar el 10% y sumar el 110% al valor del acumulador. 
      */
     #endregion
-    public class Ejercicio10_7
+    public sealed class Ejercicio10_7
     {
         private static void Bievenida()
         {

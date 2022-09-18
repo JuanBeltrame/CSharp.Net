@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibreriaDeCondicionales
 {
-    public class Ejercicio11_1
+    public sealed class Ejercicio11_1
     {
         #region Enunciado
         /*

@@ -30,3 +30,19 @@ C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Se
 C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub\CSharp\P. Imperativa-Estructurada\Contenido\E.Secuencial.5\obj\Debug\net5.0\ref\E.Secuencial.5.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.exe
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.runtimeconfig.dev.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\bin\Debug\net5.0\E.Secuencial.5.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\refint\E.Secuencial.5.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\E.Secuencial.5.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\E.Secuencial.5\obj\Debug\net5.0\ref\E.Secuencial.5.dll

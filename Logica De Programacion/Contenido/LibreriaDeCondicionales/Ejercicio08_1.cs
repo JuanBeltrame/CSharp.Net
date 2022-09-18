@@ -12,7 +12,7 @@ namespace LibreriaDeCondicionales
     el mayor de ellos con el menor. 
     */
     #endregion
-    public class Ejercicio08_1
+    public sealed class Ejercicio08_1
     {
 
         private static void Bienvenida()

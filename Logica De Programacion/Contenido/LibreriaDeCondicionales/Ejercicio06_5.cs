@@ -16,7 +16,7 @@ namespace LibreriaDeCondicionales
     Indicar en que posicion ingreso el numero mas chico.
      */
     #endregion
-    public class Ejercicio06_5
+    public sealed class Ejercicio06_5
     {
         private static void CargaYCalculo()
         {
