@@ -15,8 +15,10 @@ namespace LibreriaDeCondicionales
         // Metodos | 
         private static void Bienvenida()
         {
-            Console.WriteLine("Se ingreso al ejercicio {0}", nameof(Ejercicio09_1));
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Se ingreso al ejercicio: {0}", nameof(Ejercicio09_1));
             Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Yellow;
         }
         private static void CargayCalculo()
         {
@@ -34,15 +36,48 @@ namespace LibreriaDeCondicionales
 
             if (num1 < num2)
                 menor = num1;
-            else 
+            else
                 menor = num2;
 
             Console.WriteLine($"El numenor numero ingresado ha sido el numero: {menor}");
+        }
+
+        private static void SalirDelPrograma()
+        {
+            char desicion;
+
+            Console.WriteLine();
+            do
+            {
+                Console.WriteLine("Desea salir del programa? y/n");
+                desicion = char.Parse(Console.ReadLine());
+
+            } while (desicion != 'n' && desicion != 'y');
+            Console.WriteLine();
+            Console.WriteLine("-----------------------------");
+
+
+
+            while (desicion == 'n')
+            {
+                CargayCalculo();
+                do
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Desea salir del programa? y/n");
+                    desicion = char.Parse(Console.ReadLine());
+
+                } while (desicion != 'n' && desicion != 'y');
+                Console.WriteLine();
+                Console.WriteLine("-----------------------------");
+            }
+
         }
         private static void Mostrar()
         {
             Bienvenida();
             CargayCalculo();
+            SalirDelPrograma();
         }
         public static void DondeSucedeLaMagia()
         {
