@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsolaParaCicloDoWhile/1.0.0": {
+        "dependencies": {
+          "LibreriaParaCicloDoWhile": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaParaCicloDoWhile.dll": {}
+        }
+      },
+      "LibreriaParaCicloDoWhile/1.0.0": {
+        "runtime": {
+          "LibreriaParaCicloDoWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaParaCicloDoWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaParaCicloDoWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

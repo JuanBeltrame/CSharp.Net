@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Etapa Inicial", "01. Etapa Inicial", "{6389C422-C3EC-4128-864D-FC60097E945D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Estructura Secuencial", "02. Estructura Secuencial", "{5969498A-C805-4EDA-868E-F0CF77C9D97B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Estructura Secuencial", "01. Estructura Secuencial", "{5969498A-C805-4EDA-868E-F0CF77C9D97B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Funciones", "07. Funciones", "{21703AF0-46E6-4134-8C46-CC30F67634D9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{13D7E3DB-703A-4C6C-92B7-BAD671919510}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Seleccion-Condicion-Decision", "03. Seleccion-Condicion-Decision", "{ACABA833-653B-4DD9-AA40-724ACBE8A7E6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. if", "02. if", "{ACABA833-653B-4DD9-AA40-724ACBE8A7E6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCondicionales", "ConsolaParaCondicionales\ConsolaParaCondicionales.csproj", "{B898670D-8341-40EE-81C0-D902BA5B3B81}"
 EndProject
@@ -29,13 +27,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeCondicionales", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Arreglos", "08. Arreglos", "{B4220CE5-BFE4-402E-A26E-2583C755F5EC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Ciclos-Bucles-Repeticion-Iteracion", "04. Ciclos-Bucles-Repeticion-Iteracion", "{550D6FC2-5616-4765-95EF-2279C8D06BB7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. for", "03. for", "{550D6FC2-5616-4765-95EF-2279C8D06BB7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCicloFor", "ConsolaParaCicloFor\ConsolaParaCicloFor.csproj", "{531173D2-865B-4B14-8CBD-AE8CFE1989B7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaParaCicloFor", "LibreriaParaCicloFor\LibreriaParaCicloFor.csproj", "{DD72606B-9E56-4C49-8157-A9E2216C9223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantillaParaPracticarCodigoDiariamente", "PlantillaParaPracticarCodigoDiariamente\PlantillaParaPracticarCodigoDiariamente.csproj", "{7C69C822-D8B3-4385-95E8-721BDE10FA6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantillaParaPracticarCodigoDiariamente", "PlantillaParaPracticarCodigoDiariamente\PlantillaParaPracticarCodigoDiariamente.csproj", "{7C69C822-D8B3-4385-95E8-721BDE10FA6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaParaCicloWhile", "ConsolaParaCicloWhile\ConsolaParaCicloWhile.csproj", "{686394C8-1912-4013-8E1B-C32E60E759D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaParaCicloWhile", "LibreriaParaCicloWhile\LibreriaParaCicloWhile.csproj", "{745A657C-AB49-4718-9F65-78235A3A1001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaParaCicloDoWhile", "LibreriaParaCicloDoWhile\LibreriaParaCicloDoWhile.csproj", "{350C1421-70F4-4959-A151-43312E564A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaParaCicloDoWhile", "ConsolaParaCicloDoWhile\ConsolaParaCicloDoWhile.csproj", "{4D5E999C-304B-4372-A236-7849FE9EC9BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. while", "04. while", "{AB928331-51FA-403C-BA90-CEECFE0DEA0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. do while", "05. do while", "{3B583887-80C5-4872-B464-B111B1F47971}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +97,22 @@ Global
 		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C69C822-D8B3-4385-95E8-721BDE10FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686394C8-1912-4013-8E1B-C32E60E759D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686394C8-1912-4013-8E1B-C32E60E759D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686394C8-1912-4013-8E1B-C32E60E759D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686394C8-1912-4013-8E1B-C32E60E759D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745A657C-AB49-4718-9F65-78235A3A1001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745A657C-AB49-4718-9F65-78235A3A1001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745A657C-AB49-4718-9F65-78235A3A1001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745A657C-AB49-4718-9F65-78235A3A1001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350C1421-70F4-4959-A151-43312E564A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350C1421-70F4-4959-A151-43312E564A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350C1421-70F4-4959-A151-43312E564A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350C1421-70F4-4959-A151-43312E564A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5E999C-304B-4372-A236-7849FE9EC9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5E999C-304B-4372-A236-7849FE9EC9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5E999C-304B-4372-A236-7849FE9EC9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5E999C-304B-4372-A236-7849FE9EC9BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +128,10 @@ Global
 		{91DFE478-5850-4C4C-A22A-3DC14B7DE837} = {ACABA833-653B-4DD9-AA40-724ACBE8A7E6}
 		{531173D2-865B-4B14-8CBD-AE8CFE1989B7} = {550D6FC2-5616-4765-95EF-2279C8D06BB7}
 		{DD72606B-9E56-4C49-8157-A9E2216C9223} = {550D6FC2-5616-4765-95EF-2279C8D06BB7}
+		{686394C8-1912-4013-8E1B-C32E60E759D0} = {AB928331-51FA-403C-BA90-CEECFE0DEA0D}
+		{745A657C-AB49-4718-9F65-78235A3A1001} = {AB928331-51FA-403C-BA90-CEECFE0DEA0D}
+		{350C1421-70F4-4959-A151-43312E564A81} = {3B583887-80C5-4872-B464-B111B1F47971}
+		{4D5E999C-304B-4372-A236-7849FE9EC9BB} = {3B583887-80C5-4872-B464-B111B1F47971}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1AF27B93-2EBE-43DA-8A40-6A8DDFC02F82}

@@ -2,7 +2,7 @@
 
 namespace ConsolaParaCicloFor
 {
-    
+
     public class Program
     {
         private static float NumeroDeEjercicio()
@@ -11,20 +11,42 @@ namespace ConsolaParaCicloFor
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("Ingrese el numero del ejercicio \t");
-            Console.WriteLine("Ejercicio N: ");
+            Console.Write("Ejercicio N: ");
 
             string texto = Console.ReadLine();
-            numeroDeEjercio = float.Parse(texto);
-
             Console.Clear();
+
+            numeroDeEjercio = float.Parse(texto);
 
             return numeroDeEjercio;
         }
+        private static void SeleccionDeEjercicio()
+        {
+            switch (NumeroDeEjercicio())
+            {
+                // Ejercicios 1
+                case 01.1f:
+                    Console.WriteLine();
+                    Ejercicio01_1.DondeSucedeLaMagia();
+                    break;
+                case 01.2f:
+                    Console.WriteLine();
+                    Ejercicio01_2.DondeSucedeLaMagia();
+                    break;
+                case 01.3f:
+                    Console.WriteLine();
+                    Ejercicio01_3.DondeSucedeLaMagia();
+                    break;
+            }
+        }
+        private static void Menu()
+        {
+            SeleccionDeEjercicio();
+        }
+
         static void Main()
         {
-            //Ejercicio01_1.CargaYCalculo();
-
-            Ejercicio02_1.DondeLaMagiaSucede(); 
+            Menu();
         }
     }
 }

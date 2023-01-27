@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\bin\Debug\net6.0\LibreriaParaCicloDoWhile.deps.json
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\bin\Debug\net6.0\LibreriaParaCicloDoWhile.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\bin\Debug\net6.0\LibreriaParaCicloDoWhile.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\refint\LibreriaParaCicloDoWhile.dll
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\LibreriaParaCicloDoWhile.pdb
+C:\Users\juan_\Documents\GitHub\CSharp\Logica De Programacion\Contenido\LibreriaParaCicloDoWhile\obj\Debug\net6.0\ref\LibreriaParaCicloDoWhile.dll
