@@ -11,8 +11,8 @@ namespace Vista1
 
         static void Main()
         {
-            //float temperaturaCelsius = 30;
-            //float temperaturaKelvin = ConversorDeTemperatura.ConvertirCelciusAKelvin(temperaturaCelsius);
+            float temperaturaCelsius = 250;
+            float temperaturaKelvin = ConversorDeTemperatura.ConvertirCelciusAKelvin(temperaturaCelsius);
 
             temperaturaCelsius = 30;
             temperaturaKelvin = ConversorDeTemperatura.ConvertirCelciusAKelvin(temperaturaCelsius);

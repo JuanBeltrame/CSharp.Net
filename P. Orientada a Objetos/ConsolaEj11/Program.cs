@@ -47,7 +47,7 @@ namespace ConsolaEj11
 
             }
 
-            StringBuilder sb; 
+            StringBuilder sb;
             sb = new StringBuilder();
 
             // Anexa un nuevo texto y genera salto de linea;
@@ -60,9 +60,10 @@ namespace ConsolaEj11
             // Append genera texto SIN salto de linea
             sb.Append("Fin...");
 
-            DateTime datetime = new DateTime(2021,08,23);
+            DateTime datetime = new DateTime(2021, 08, 23);
+
             
-            
+
             Console.WriteLine(sb.ToString());
             Console.ReadKey();
         }
@@ -77,5 +78,8 @@ namespace ConsolaEj11
             if (valor < minimo)
                 minimo = valor;
         }
+
+        
+
     }
 }
