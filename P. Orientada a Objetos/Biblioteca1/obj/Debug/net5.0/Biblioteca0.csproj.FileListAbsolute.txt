@@ -21,3 +21,4 @@ C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Biblioteca1\obj\De
 C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Biblioteca1\obj\Debug\net5.0\refint\Biblioteca0.dll
 C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Biblioteca1\obj\Debug\net5.0\Biblioteca0.pdb
 C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Biblioteca1\obj\Debug\net5.0\ref\Biblioteca0.dll
+C:\Users\juan_\Documents\GitHub\CSharp\P. Orientada a Objetos\Biblioteca1\obj\Debug\net5.0\Biblioteca0.sourcelink.json

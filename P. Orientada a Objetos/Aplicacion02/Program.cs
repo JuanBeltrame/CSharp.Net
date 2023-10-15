@@ -12,7 +12,7 @@ namespace Aplicacion02
 
     public static class Formulas
     {
-        public static string DevolverMensaje()
+        public static String DevolverMensaje()
         {
             return "Soy Namespace Numero2";
         }
@@ -25,6 +25,7 @@ namespace Aplicacion02
         public static string DevolverMensaje2()
         {
             return "Soy Namespace Numero2";
+            
         }
     }
 }
