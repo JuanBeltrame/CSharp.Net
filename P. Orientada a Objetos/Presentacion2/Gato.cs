@@ -32,14 +32,14 @@ namespace Presentacion
         }
 
         /* Declaracion de Metodos: 
-. Modificador de Visibilidad (public, private, etc..) 
-. Si sera static o no static. Cuando no es static, la palabra no se escribe. 
-. Tipo de retorno (void: no retorna nada) 
-. Tipo de retorno (se debe indicar el tipo de dato a retornar) 
-. Nombre del Metodo (Tiene que ser un Verbo) // los metodos se escriben en PascalCase
-. El tipo de dato que tendra el parametro
-. Entre parentesis van los parametros de Entrada (En caso que sea necesario) 
-*/
+            . Modificador de Visibilidad (public, private, etc..) 
+            . Si sera static o no static. Cuando no es static, la palabra no se escribe. 
+            . Tipo de retorno (void: no retorna nada) 
+            . Tipo de retorno (se debe indicar el tipo de dato a retornar) 
+            . Nombre del Metodo (Tiene que ser un Verbo) // los metodos se escriben en PascalCase
+            . El tipo de dato que tendra el parametro
+            . Entre parentesis van los parametros de Entrada (En caso que sea necesario) 
+        */
         // METODOS
         public void AsignarNombreOpcion1(string nombre) // Opcion 1 
         {
@@ -53,9 +53,9 @@ namespace Presentacion
             }
 
         }
-        public void AsignarNombreOpcion2(string nombre )//Opcion 2
+        public void AsignarNombreOpcion2(string nombre)//Opcion 2
         {
-            nombre = ""; 
+            nombre = "";
             if (string.IsNullOrEmpty(nombre))
             {
                 nombre = "Sin nombre";
@@ -64,7 +64,7 @@ namespace Presentacion
 
         public void AsignarPesoOpcion1(double peso)
         {
-           if (peso < 0)
+            if (peso < 0)
             {
                 peso = 0;
             }
@@ -90,7 +90,7 @@ namespace Presentacion
             {
                 sb.AppendLine("Sin nombrre");
             }
-       
+
             // Strings Interpolados: es con el signo pesos adelante
             sb.Append($"Fecha de naciemnto: {fechaNacimiento.ToString("dd/MM/yyyy")}");
             sb.AppendLine($" Peso: {peso}");
