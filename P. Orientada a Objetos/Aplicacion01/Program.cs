@@ -12,6 +12,8 @@ namespace Aplicacion01
             string nm1 = Formulas.DevolverMensaje();
             string nm2 = Formulas2.DevolverMensaje2();
 
+            
+
             // Ctrl k + Ctrl D: Acomoda el Codigo
         }
     }
