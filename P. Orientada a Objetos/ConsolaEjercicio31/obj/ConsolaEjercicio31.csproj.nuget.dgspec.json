@@ -1,40 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {}
+    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {
+    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
         "projectName": "ConsolaEjercicio31",
-        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
-        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\ConsolaEjercicio31\\obj\\",
+        "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEjercicio31\\ConsolaEjercicio31.csproj",
+        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
+        "outputPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEjercicio31\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
-                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj"
+              "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
+                "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj"
               }
             }
           }
@@ -68,29 +68,29 @@
         }
       }
     },
-    "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
+    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
+        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
         "projectName": "PuestoDeAtencion(Biblioteca)",
-        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
-        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub\\CSharp\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\obj\\",
+        "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\PuestoDeAtencion(Biblioteca).csproj",
+        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
+        "outputPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\PuestoDeAtencion(Biblioteca)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
