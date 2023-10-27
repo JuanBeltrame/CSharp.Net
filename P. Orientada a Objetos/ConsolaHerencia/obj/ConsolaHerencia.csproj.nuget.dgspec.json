@@ -1,40 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj": {}
   },
   "projects": {
-    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj",
         "projectName": "ConsolaHerencia",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\ConsolaHerencia.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\ConsolaHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -68,29 +68,29 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
