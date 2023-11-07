@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Biblioteca1\Biblioteca0.csproj" />
-  </ItemGroup>
-
 </Project>
