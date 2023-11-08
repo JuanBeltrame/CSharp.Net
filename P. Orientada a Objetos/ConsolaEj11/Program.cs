@@ -47,24 +47,13 @@ namespace ConsolaEj11
 
             }
 
-            StringBuilder sb;
-            sb = new StringBuilder();
-
-            // Anexa un nuevo texto y genera salto de linea;
-            sb.AppendLine("Resultados");
-            // En AppendFormat Puedo usar formato compuesto 
-            sb.AppendFormat($"El numero maximo es {0}", maximo);
-            // Appendline acepta string interpolados
-            sb.AppendLine($"El numero maximo es: {maximo}  y el minimo es: {minimo}");
-            sb.AppendLine($"El promedio total es: {acumNumeros / contNumeros}");
-            // Append genera texto SIN salto de linea
-            sb.Append("Fin...");
+            
 
             DateTime datetime = new DateTime(2021, 08, 23);
 
             
 
-            Console.WriteLine(sb.ToString());
+            
             Console.ReadKey();
         }
 
