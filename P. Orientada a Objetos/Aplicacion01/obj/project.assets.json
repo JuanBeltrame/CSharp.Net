@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Aplicacion02/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Aplicacion02.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Aplicacion02.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Aplicacion02/1.0.0": {
-      "type": "project",
-      "path": "../Aplicacion02/Aplicacion02.csproj",
-      "msbuildProject": "../Aplicacion02/Aplicacion02.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Aplicacion02 >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\juan_\\.nuget\\packages\\": {},
@@ -58,11 +39,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Aplicacion02\\Aplicacion02.csproj": {
-              "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Aplicacion02\\Aplicacion02.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

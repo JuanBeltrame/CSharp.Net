@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Aplicacion02\Aplicacion02.csproj" />
-  </ItemGroup>
-
 </Project>

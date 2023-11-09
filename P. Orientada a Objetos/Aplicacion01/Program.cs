@@ -9,8 +9,7 @@ namespace Aplicacion01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            string nm1 = Formulas.DevolverMensaje();
-            string nm2 = Formulas2.DevolverMensaje2();
+            
 
             
 
