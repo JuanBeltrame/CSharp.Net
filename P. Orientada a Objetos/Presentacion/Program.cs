@@ -24,17 +24,15 @@ namespace Presentacion1
             TimeSpan addedInterval = interval.Add(new TimeSpan(1, 0, 0)); // Agrega una hora
             Console.WriteLine(addedInterval.ToString()); // Imprime "03:14:18"
 
-
             
 
 
             
 
-            // Variables 
-            string nombreCompleto; // Asi se declara
-            nombreCompleto = "Juan Beltrame"; // Asi se asigna  
-            string n = "Hello Word " + nombreCompleto + "!";  // Declarar y asignar en la misma linea 
-            Console.WriteLine(nombreCompleto); // mostrar el mensaje por consola 
+
+            
+
+            
 
             // Tipo de valor, por que es una (estructura)
             int numero = 12;
