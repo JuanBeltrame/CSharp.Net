@@ -9,12 +9,7 @@ namespace Presentacion1
 
 
 
-            DateTime currentDateTime = DateTime.Now; // Obtén la fecha y hora actuales.
-            Console.WriteLine("La fecha y hora actuales son: " + currentDateTime);
-
-            DateTime specificDateTime = new DateTime(2023, 7, 29); // Especifica una fecha concreta.
-            Console.WriteLine("La fecha especificada es: " + specificDateTime);
-
+            
             // Crear un nuevo objeto TimeSpan
             TimeSpan interval = new TimeSpan(2, 14, 18);  // 2 horas, 14 minutos, 18 segundos
             Console.WriteLine(interval.ToString()); // Imprime "02:14:18"
@@ -30,13 +25,10 @@ namespace Presentacion1
             Console.WriteLine(addedInterval.ToString()); // Imprime "03:14:18"
 
 
-            int year = currentDateTime.Year; // Acceder a los componentes individuales.
-            int month = currentDateTime.Month;
-            int day = currentDateTime.Day;
-            Console.WriteLine("Año: " + year + ", Mes: " + month + ", Día: " + day);
+            
 
 
-            Console.WriteLine(int.MaxValue); // El maximo valor que puede tomar un int
+            
 
             // Variables 
             string nombreCompleto; // Asi se declara
