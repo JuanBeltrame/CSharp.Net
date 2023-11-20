@@ -1,52 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Logica/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Logica.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Logica.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Logica/1.0.0": {
-      "type": "project",
-      "path": "../Logica/Logica.csproj",
-      "msbuildProject": "../Logica/Logica.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Logica >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jbeltrame\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\juan_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\UI\\UI.csproj",
-      "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-      "outputPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\UI\\obj\\",
+      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+        "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -54,7 +32,6 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -62,11 +39,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Logica\\Logica.csproj": {
-              "projectPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Logica\\Logica.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
