@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\",
+  "WorkspaceRootPath": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CFC6BB3-4627-428C-996A-C544F51C876B}|Presentacion\\Presentacion1.csproj|c:\\users\\juan_\\documents\\github repositories\\csharp.net\\p. orientada a objetos\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0473DF78-BD36-49A8-B063-877F36EAA79E}|ConsolaEj11\\ConsolaEj11.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\consolaej11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0473DF78-BD36-49A8-B063-877F36EAA79E}|ConsolaEj11\\ConsolaEj11.csproj|solutionrelative:consolaej11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC6BB3-4627-428C-996A-C544F51C876B}|Presentacion\\Presentacion1.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC6BB3-4627-428C-996A-C544F51C876B}|Presentacion\\Presentacion1.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF595AF9-CF7D-4319-ACCE-9888F90A618F}|Vista\\Vista.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF595AF9-CF7D-4319-ACCE-9888F90A618F}|Vista\\Vista.csproj|solutionrelative:vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F7A0A-3EFF-4288-8381-A952C8D1E096}|Colecciones\\Colecciones.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\colecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245F7A0A-3EFF-4288-8381-A952C8D1E096}|Colecciones\\Colecciones.csproj|solutionrelative:colecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\biblioteca\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|e:\\juanb (disco e)\\csharp.net\\p. orientada a objetos\\biblioteca\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C95CA58-FF3E-4F3A-B30D-271613FD72BF}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +46,95 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Presentacion\\Program.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEj11\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolaEj11\\Program.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\ConsolaEj11\\Program.cs",
+              "RelativeToolTip": "ConsolaEj11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T14:06:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Vista\\Program.cs",
+              "RelativeDocumentMoniker": "Vista\\Program.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Vista\\Program.cs",
+              "RelativeToolTip": "Vista\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:54:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Colecciones\\Program.cs",
+              "RelativeDocumentMoniker": "Colecciones\\Program.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Colecciones\\Program.cs",
+              "RelativeToolTip": "Colecciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:54:19.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Jugador.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Jugador.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Jugador.cs",
+              "RelativeToolTip": "Biblioteca\\Jugador.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:53:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:53:58.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Equipo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Equipo.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Biblioteca\\Equipo.cs",
+              "RelativeToolTip": "Biblioteca\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:53:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Presentacion\\Program.cs",
               "RelativeDocumentMoniker": "Presentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\Presentacion\\Program.cs",
+              "ToolTip": "E:\\JuanB (Disco E)\\CSharp.Net\\P. Orientada a Objetos\\Presentacion\\Program.cs",
               "RelativeToolTip": "Presentacion\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-20T12:00:33.937Z",
               "EditorCaption": ""
