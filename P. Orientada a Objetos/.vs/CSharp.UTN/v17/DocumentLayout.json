@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757E7FF1-6B11-474E-B842-39BC84AA32C2}|SobrecargaConstructores\\SobrecargaConstructores.csproj|c:\\users\\juan_\\documents\\github repositories\\csharp.net\\p. orientada a objetos\\sobrecargaconstructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757E7FF1-6B11-474E-B842-39BC84AA32C2}|SobrecargaConstructores\\SobrecargaConstructores.csproj|solutionrelative:sobrecargaconstructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757E7FF1-6B11-474E-B842-39BC84AA32C2}|SobrecargaConstructores\\SobrecargaConstructores.csproj|c:\\users\\juan_\\documents\\github repositories\\csharp.net\\p. orientada a objetos\\sobrecargaconstructores\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757E7FF1-6B11-474E-B842-39BC84AA32C2}|SobrecargaConstructores\\SobrecargaConstructores.csproj|solutionrelative:sobrecargaconstructores\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\SobrecargaConstructores\\Program.cs",
+              "RelativeDocumentMoniker": "SobrecargaConstructores\\Program.cs",
+              "ToolTip": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\SobrecargaConstructores\\Program.cs",
+              "RelativeToolTip": "SobrecargaConstructores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:04:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aula.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\SobrecargaConstructores\\Aula.cs",
+              "RelativeDocumentMoniker": "SobrecargaConstructores\\Aula.cs",
+              "ToolTip": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp.Net\\P. Orientada a Objetos\\SobrecargaConstructores\\Aula.cs",
+              "RelativeToolTip": "SobrecargaConstructores\\Aula.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:03:57.154Z",
+              "EditorCaption": ""
             }
           ]
         }
